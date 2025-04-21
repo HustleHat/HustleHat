@@ -58,7 +58,7 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 - I build fast.
 - I design like a player.
 - I think like a product owner.
-- And I always, always finish the job.
+- And I always, always finish the mission.
 
 ---
 
