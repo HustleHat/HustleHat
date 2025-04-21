@@ -5,7 +5,14 @@
 
 Hey there — I'm Chris, but around these parts folks know me as **Hustle Hat**.
 
-I'm a developer in training, game builder, and digital strategist with a knack for turning **blank screens into living, breathing experiences**.
+Aspiring Frontier Systems Engineer, game builder, and digital strategist with a knack for turning **blank screens into living, breathing experiences**.
+
+---
+
+## 🌌 Core Focus
+- Human–Machine Systems
+- Decentralized Intelligence
+- Quantum Game Sim
 
 ---
 
