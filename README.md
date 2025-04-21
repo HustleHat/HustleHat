@@ -1,16 +1,110 @@
-## Hi there 👋
+# 🤠 Christopher M. Noble
+**Technologist • Worldbuilder • Code Cowboy**
 
-<!--
-**HustleHat/HustleHat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Be brave. Be weird. Build dope sh*t.”
 
-Here are some ideas to get you started:
+Hey there — I'm Chris, but around these parts folks know me as **Hustle Hat**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a developer in training, game builder, and digital strategist with a knack for turning **blank screens into living, breathing experiences**.
+
+---
+
+## 🛠 What I Do
+
+### 💻 Web Development
+- Frontend wizardry with **Next.js**, **React**, and **Tailwind**
+- Backend firepower using **Node.js**, **GraphQL**, **PostgreSQL**, and **Firebase**
+- Web3 integrations using **ThirdWeb**, **Solidity**, **WalletConnect**, and **IPFS**
+
+### 🎮 Game Development
+- Building worlds in **Unreal Engine 5** (Blueprints + C++)
+- 3D assets & environments using **Blender**
+- Gameplay loops, mission systems, and economy design
+
+### 🌀 Animation & Creative Tech
+- Motion graphics with **Lottie**, **GSAP**, and **Spline**
+- AI-assisted character animation + lip sync
+- Narrative-driven design using sound, motion, and user psychology
+
+### 🔮 Product Vision & Strategy
+- End-to-end product development from concept to scale
+- Systems thinker focused on gameplay design, user retention, and ecosystem flow
+- First-principles product strategy influenced by **Jobs, Musk, and indie creators**
+- Experience crafting creator economies, incentive loops, and user onboarding systems
+
+### 📣 Marketing & Digital Media
+- Storytelling, Podcasts, Live Shows + brand building across **X, Discord, Telegram, and more**
+- Full-funnel launch strategy for games, NFTs, and digital products
+- Short-form content scripting, editing, and motion design for virality
+- Deep focus on audience psychology, narrative hooks, and conversion design
+
+---
+
+## 🧠 Currently Building
+| Project | Description |
+|--------|-------------|
+| 🐎 **Want3d** | A Red Dead meets Rust open-world shooter (UE5) |
+| 🐍 **Yeehaw AI** | AI-powered Agents & 3D asset generation |
+| 💸 **RoundUp DEX** | Gasless, cross-chain, NFT-integrated DEX |
+| 🌵 **Eldorado Marketplace** | Multi-chain NFT platform with embedded animation |
+| 🤠 **Quick Draw Legends** | Hyper-casual Web3 mobile duel game with NFT perks |
+
+---
+
+## 🌍 Let's Work Together
+
+If you're a **tech company looking for edge**, a **startup wanting product magic**, or a **game studio who needs a world-builder with system brains**, I'm your guy.
+
+- I build fast.
+- I design like a player.
+- I think like a product owner.
+- And I always, always finish the job.
+
+---
+
+## 🧪 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+
+---
+
+## 🎯 Goals for 2025
+- 🚀 Launch and scale a multi-platform game IP to 100K+ players
+- 🧠 Build a suite of AI tools that empower indie game devs
+- 💼 Land a strategic role at a company shaping the next digital frontier
+- 🎬 Release a short animated film (AI-assisted)
+- 🔓 Open-source a toolkit for no-code 3D asset generation
+- 🎤 Speak at a major tech/gaming conference
+- 🪙 Onboard 1M+ users to Web3 via entertainment, not speculation
+- 📈 Grow Posse Studios into the next great digital entertainment platform
+
+---
+
+## 🦾 Fun Facts
+- I speak fluent **API** and semi-fluent **Sarcasm**
+- I build systems like an engineer and stories like a game designer. 
+- I'm a **Jersey boy**, for better or worse, always wearing a **genuine heart** on my sleeve.
+- I’ve built full ecosystems with **zero VC money** by focusing on people and quality experiences first.
+- I treat **code like design** and **design like gameplay**
+- I believe work should feel like building a game with friends 
+- I don’t believe in gatekeeping the next generation of creators.
+
+---
+
+## 📬 Reach Out
+Got a cool idea? Want to collab? Just vibing? Let’s chat:
+
+💬 [Discord](https://discord.gg/possestudios)  
+🐎 [Twitter](https://twitter.com/possestudio)  
+🌐 [Website](https://possestudios.info)
+
+
+> “Code is poetry, games are stories, and the web is the wild frontier.”
