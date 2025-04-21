@@ -7,8 +7,9 @@ Hey there — I'm Chris, but around these parts folks know me as **Hustle Hat**.
 
 Aspiring Frontier Systems Engineer, game builder, and digital strategist with a knack for turning **blank screens into living, breathing experiences**.
 
-> **My core focus lies at the intersection of Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim.**  
-> Think *Tony Stark meets Rick Rubin with a touch of Johnny Depp energy* — technical, visionary, and just the right amount of chaotic genius.
+My core focus lies at the intersection of Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim.
+
+> Think *Tony Stark meets Rick Rubin with a touch of Johnny Depp energy* — technical, visionary, and just the right amount of organized chaos.
 
 ---
 
