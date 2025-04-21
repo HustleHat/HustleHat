@@ -88,7 +88,7 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 - 🔓 Open-source a toolkit for no-code 3D asset generation
 - 🎤 Speak at a major tech/gaming conference
 - 🪙 Onboard 1M+ users to Web3 via entertainment, not speculation
-- 🧪 Develop and publish original research on gameplay psychology + Web3 economies
+- 🧪 Develop and publish original research and breakthroughs on gameplay psychology, Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim economies
 - 📺 Produce a viral content series that blends AI, gaming lore, and comedy
 - 🤝 Form strategic partnerships with leading studios, platforms, or protocols  
 - 📚 Mentor upcoming devs and creators through workshops, cohorts, or content 
