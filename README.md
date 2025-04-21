@@ -109,14 +109,14 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ## 🦾 Fun Facts
 - ⚡ Once launched a product in 24 hours because... why not.
+- ❤️ Survivor of stage 3 complete heart block — been rebooted once, now I run on resilience and raw grit.
 - 🧠 I speak fluent **API**, **bullshit detection**, and semi-fluent **Sarcasm** — all with professionalism, tact, and grace.
-- 🛠️ I build systems like an engineer and stories like a game designer. 
 - 🗽 I'm a **Jersey boy**, for better or worse — always rocking a **genuine heart** on my sleeve.
 - 🌐 I’ve built full ecosystems with **zero VC money** by putting people and quality experiences first.
-- 🎮 I treat **code like design** and **design like gameplay**.
 - 🧩 I believe work should feel like building a game with friends.
 - 🚪 I don’t believe in gatekeeping the next generation of creators.
 - 🏈 Threw bombs on the field as a **semi-pro quarterback** — now I throw 'em in the boardroom.
+- 🥋 Lover of MMA chess matches — fight IQ is just code logic in a cage.
 - 🎶 Musician by night, dev by day — my playlists go as hard as my pull requests.
 - 🏁 Built more turbocharged engines than I’ve had VC calls — and that’s saying something.
 - 🧭 I don’t believe in shortcuts or compromising on integrity. Ever.
