@@ -70,13 +70,18 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine)
-![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
-![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Solidity](https://img.shields.io/badge/-Solidity-black?style=flat-square&logo=solidity)
+![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine)
+![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
 
 ---
