@@ -90,7 +90,7 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ## 🦾 Fun Facts
 - ⚡ Once launched a product in 24 hours because... why not.
-- 🧠 I speak fluent **API**, **bullshit detection**, and semi-fluent **Sarcasm** — all with tact and grace.
+- 🧠 I speak fluent **API**, **bullshit detection**, and semi-fluent **Sarcasm** — all with professionalism, tact, and grace.
 - 🛠️ I build systems like an engineer and stories like a game designer. 
 - 🗽 I'm a **Jersey boy**, for better or worse — always rocking a **genuine heart** on my sleeve.
 - 🌐 I’ve built full ecosystems with **zero VC money** by putting people and quality experiences first.
