@@ -102,10 +102,9 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 ## 📬 Reach Out
 Got a cool idea? Want to collab? Just vibing? Let’s chat:
 
-🧢 [Telegram](https://t.me/HustleHat)
+🧢 [Telegram](https://t.me/HustleHat)  
 💬 [Discord](https://discord.gg/possestudios)  
 🐎 [Twitter](https://twitter.com/possestudio)  
 🌐 [Website](https://possestudios.info)
-
 
 > “Code is poetry, games are stories, and the web is the wild frontier.”
