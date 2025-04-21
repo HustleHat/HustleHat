@@ -77,6 +77,7 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
 
 ---
 
