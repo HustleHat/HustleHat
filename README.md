@@ -92,6 +92,17 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ---
 
+## 🧭 Fields of Interest
+
+- ⚛️ **Quantum Computing & Quantum Software**
+- 🔐 **Blockchain, Cryptography & Decentralized Systems**
+- 🤖 **Embedded Systems & Edge Computing**
+- 🧠 **Human–AI Interaction & Cognitive Computing**
+- 🧬 **Synthetic Biology & Bioinformatics**
+- 🎮 **Gaming, Worldbuilding & Digital Media**
+
+---
+
 ## 🦾 Fun Facts
 - ⚡ Once launched a product in 24 hours because... why not.
 - 🧠 I speak fluent **API**, **bullshit detection**, and semi-fluent **Sarcasm** — all with professionalism, tact, and grace.
