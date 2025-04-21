@@ -96,6 +96,7 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 - I treat **code like design** and **design like gameplay**
 - I believe work should feel like building a game with friends 
 - I don’t believe in gatekeeping the next generation of creators.
+- I do not believe in shortcuts or compromise on integrity.
 
 ---
 
