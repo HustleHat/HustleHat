@@ -76,6 +76,18 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HustleHat&show_icons=true&theme=radical&count_private=true&hide_rank=false" width="50%">
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HustleHat&theme=radical" width="50%">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HustleHat&layout=compact&theme=radical" width="50%">
+</p>
+
+---
+
 ## 🎯 Goals for 2025
 - 🚀 Launch and scale a multi-platform game IP to 100K+ players
 - 🧠 Build a suite of AI tools that empower indie game devs
