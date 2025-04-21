@@ -9,7 +9,7 @@ Aspiring Frontier Systems Engineer, game builder, and digital strategist with a 
 
 My core focus lies at the intersection of Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim.
 
-> Think *Tony Stark meets Rick Rubin with a touch of Johnny Depp energy* — technical, visionary, and just the right amount of organized chaos.
+> Think *Tony Stark meets Rick Rubin with a touch of Johnny Depp energy* — technical, visionary, and just the right amount of organized chaos. ;)
 
 ---
 
