@@ -76,7 +76,7 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ---
 
-## 🎯 Goals for 2025
+## 🎯 Goals for 2025 + Beyond
 - 🚀 Launch and scale an original multi-platform game IP to 100K+ players
 - 🧠 Build a suite of AI tools that empower indie game devs
 - 💼 Land a strategic role at a company shaping the next digital frontier
