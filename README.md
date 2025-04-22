@@ -154,5 +154,3 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
-
-> “Code is poetry, games are stories, and the web is the wild frontier.”
