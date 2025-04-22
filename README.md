@@ -24,11 +24,8 @@ My core focus lies at the intersection of Human–Machine Systems, Decentralized
     </td>
     <td>
       <a href="mailto:hustlehat@gmail.com" target="_blank">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+        <img src="https://img.shields.io/badge/Gmail-hustlehat@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
       </a>
-    </td>
-    <td>
-      <img src="https://img.shields.io/badge/hustlehat@gmail.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Address"/>
     </td>
     <td>
       <a href="https://discord.gg/possestudios" target="_blank">
@@ -49,7 +46,7 @@ My core focus lies at the intersection of Human–Machine Systems, Decentralized
     </td>
     <td>
       <a href="https://x.com/HustleHat" target="_blank">
-        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+        <img src="https://img.shields.io/badge/X-%20-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
       </a>
     </td>
     <td>
