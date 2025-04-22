@@ -61,7 +61,7 @@ Currently working on Posse Studios and writing *“The Rise of Cognitive Frontie
 
 ## 🌍 Let's Work Together
 
-If you're a **tech company looking for edge**, a **startup wanting product magic**, or a **game studio who needs a world-builder with system brains**, I'm your guy.
+If you're a **tech company or fellow digital adventurer looking for edge**, a **startup wanting product magic**, or a **game studio who needs a world-builder with system brains**, I'm your guy.
 
 - I build fast.
 - I design like a player.
