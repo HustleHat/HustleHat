@@ -13,6 +13,58 @@ My core focus lies at the intersection of Human–Machine Systems, Decentralized
 
 ---
 
+<h2>📬 Contact</h2>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td>
+      <a href="mailto:hustlehat@gmail.com" target="_blank">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/hustlehat@gmail.com-EA4335?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email Address"/>
+    </td>
+    <td>
+      <a href="https://discord.gg/possestudios" target="_blank">
+        <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://img.shields.io/badge/HustleHat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Handle"/>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://t.me/HustleHat" target="_blank">
+        <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://medium.com/@hustlehat" target="_blank">
+        <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://x.com/HustleHat" target="_blank">
+        <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.youtube.com/@HustleHat" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## 🛠 What I Do
 
 ### 💻 Web Development
