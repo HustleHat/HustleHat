@@ -13,34 +13,6 @@ My core focus lies at the intersection of Human–Machine Systems, Decentralized
 
 ---
 
-<h2>📬 Contact</h2>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:hustlehat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://discord.gg/possestudios" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-  <a href="https://t.me/HustleHat" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="https://medium.com/@hustlehat" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://x.com/HustleHat" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-  <a href="https://www.youtube.com/@HustleHat" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-</p>
-
----
-
 ## 🛠 What I Do
 
 ### 💻 Web Development
@@ -157,12 +129,31 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 
 ---
 
-## 📬 Reach Out
+<h2>📬 Contact</h2>
 Got a cool idea? Want to collab? Just vibing? Let’s chat:
 
-🧢 [Telegram](https://t.me/HustleHat)  
-💬 [Discord](https://discord.gg/possestudios)  
-🐎 [Twitter](https://twitter.com/possestudio)  
-🌐 [Website](https://possestudios.info)
+<p align="center">
+  <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hustlehat@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://discord.gg/possestudios" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+  <a href="https://t.me/HustleHat" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://medium.com/@hustlehat" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
+  </a>
+  <a href="https://x.com/HustleHat" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
+  </a>
+  <a href="https://www.youtube.com/@HustleHat" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+</p>
 
 > “Code is poetry, games are stories, and the web is the wild frontier.”
