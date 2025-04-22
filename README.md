@@ -9,7 +9,7 @@ Aspiring Frontier Systems Engineer, game builder, and digital strategist with a 
 
 My core focus lies at the intersection of Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim.
 
-Currently writing “The Rise of Cognitive Frontiers: How Human–AI Interaction, Decentralized Intelligence, and Synthetic Worlds Will Reshape Reality.”
+Currently writing *“The Rise of Cognitive Frontiers: How Human–AI Interaction, Decentralized Intelligence, and Synthetic Worlds Will Reshape Reality.”*
 
 > Think *Tony Stark meets Rick Rubin with a touch of Johnny Depp energy* — technical, visionary, and just the right amount of organized chaos. ;)
 
