@@ -130,7 +130,6 @@ If you're a **tech company looking for edge**, a **startup wanting product magic
 ---
 
 <h2>📬 Contact</h2>
-Got a cool idea? Want to collab? Just vibing? Let’s chat:
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
