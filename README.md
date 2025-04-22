@@ -9,7 +9,7 @@ Aspiring Frontier Systems Engineer, game builder, and digital strategist with a 
 
 My core focus lies at the intersection of Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim.
 
-> Basically, building the future while trying to explain it.
+> Basically, building a future where technology, emotion, and imagination collide.
 
 Currently working on Posse Studios and writing *“The Rise of Cognitive Frontiers: How Human–AI Interaction, Decentralized Intelligence, and Synthetic Worlds Will Reshape Reality.”*
 
