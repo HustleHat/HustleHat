@@ -35,9 +35,6 @@ My core focus lies at the intersection of Human–Machine Systems, Decentralized
         <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
       </a>
     </td>
-    <td>
-      <img src="https://img.shields.io/badge/HustleHat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Handle"/>
-    </td>
   </tr>
   <tr>
     <td>
