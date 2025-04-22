@@ -1,7 +1,8 @@
 # 🤠 Christopher M. Noble
-**Technologist • Worldbuilder • Code Cowboy**
 
-<img src="https://github.com/HustleHat/HustleHat/blob/main/banner.png?raw=true" alt="Hustle Hat Banner" style="width:100%;" />
+<img src="https://github.com/HustleHat/HustleHat/blob/main/banner.png?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
+
+**Technologist • Worldbuilder • Code Cowboy**
 
 > “Be brave. Be weird. Build dope sh*t.”
 
