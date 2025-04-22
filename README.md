@@ -51,7 +51,7 @@ Currently working on Posse Studios and writing *“The Rise of Cognitive Frontie
 ## 🧠 Currently Building
 | Project | Description |
 |--------|-------------|
-| 🐎 **Want3d** | A Red Dead meets Rust open-world shooter (UE5) |
+| 🐎 **Want3d** | A Red Dead meets Rust open-world survival game (UE5) |
 | 🐍 **Yeehaw AI** | AI-powered Agents & 3D asset generation |
 | 💸 **RoundUp DEX** | Gasless, cross-chain, NFT-integrated DEX |
 | 🌵 **Eldorado Marketplace** | Multi-chain NFT platform with embedded animation |
