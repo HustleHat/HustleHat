@@ -1,6 +1,6 @@
 # 🤠 Christopher M. Noble
 
-<img src="https://github.com/HustleHat/HustleHat/blob/main/Banner.png?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
+<img src="https://github.com/HustleHat/HustleHat/blob/main/Banner.jpg?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
 
 **Technologist • Worldbuilder • Code Cowboy**
 
