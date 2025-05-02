@@ -1,6 +1,8 @@
-# 🤠 Christopher M. Noble
+# 🧢 Christopher M. Noble
 
 <img src="https://github.com/HustleHat/HustleHat/blob/main/Banner.jpg?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
+
+## 🔌 Background
 
 Building at the frontier where technology, imagination, and human intuition collide.
 
