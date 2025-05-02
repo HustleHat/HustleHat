@@ -53,7 +53,7 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ## Core Thesis
 
-> **We build digital experiences where technology fades and humanity deepens.**
+> **Building digital experiences where technology fades and humanity deepens.**
 
 ---
 
