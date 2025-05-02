@@ -1,8 +1,8 @@
-# 🧢 Christopher M. Noble
+# Christopher M. Noble
 
 <img src="https://github.com/HustleHat/HustleHat/blob/main/Banner.jpg?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
 
-## 🔌 Background
+## Background
 
 Building at the frontier where technology, imagination, and human intuition collide.
 
@@ -12,7 +12,7 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ---
 
-## 🛠 What I Do
+## What I Do
 
 ### 💻 Web Development
 - **Next.js**, **React**, **Tailwind** frontend
@@ -39,7 +39,7 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ---
 
-## 🧠 Currently Building
+## Currently Building
 
 | Project | Focus |
 |:--------|:------|
@@ -51,13 +51,13 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ---
 
-## 🌍 Core Thesis
+## Core Thesis
 
 > **We build digital experiences where technology fades — and humanity deepens.**
 
 ---
 
-## 🔬 Tech Stack
+## Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
@@ -75,7 +75,7 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ---
 
-## 🌟 Goals for 2025+
+## Goals for 2025+
 - Launch an original multi-platform game IP to 100K+ players
 - Build AI-powered creative tools for indie devs
 - Publish research on Human–Machine Systems and Cognitive Economies
@@ -84,7 +84,7 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ---
 
-## 🛍 Contact
+## Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
