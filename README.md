@@ -2,85 +2,65 @@
 
 <img src="https://github.com/HustleHat/HustleHat/blob/main/Banner.jpg?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
 
-**Technologist • Worldbuilder • Code Cowboy**
+Building at the frontier where technology, imagination, and human intuition collide.
 
-> “Be brave. Be weird. Build dope sh*t.”
+Focused on Human–Machine Systems, Decentralized Intelligence, and Quantum Game Simulation — crafting digital experiences where code, creativity, and connection move as one.
 
-Hey there — I'm Chris, but around these parts folks know me as **Hustle Hat**.
-
-Aspiring Frontier Systems Engineer, game builder, and digital strategist with a knack for turning **blank screens into living, breathing experiences**.
-
-My core focus lies at the intersection of Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim.
-
-> Basically, building a future where technology, emotion, and imagination collide.
-
-Currently working on Posse Studios and writing *“The Rise of Cognitive Frontiers: How Human–AI Interaction, Decentralized Intelligence, and Synthetic Worlds Will Reshape Reality.”*
-
-> Think *Tony Stark meets Rick Rubin with a touch of Johnny Depp energy* — technical, visionary, and just the right amount of organized chaos. ;)
+Founder of Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for the next frontier.
 
 ---
 
 ## 🛠 What I Do
 
 ### 💻 Web Development
-- Frontend wizardry with **Next.js**, **React**, and **Tailwind**
-- Backend firepower using **Node.js**, **GraphQL**, **PostgreSQL**, and **Firebase**
-- Web3 integrations using **ThirdWeb**, **Solidity**, **WalletConnect**, and **IPFS**
+- **Next.js**, **React**, **Tailwind** frontend
+- **Node.js**, **GraphQL**, **PostgreSQL**, **Firebase** backend
+- Web3 integrations with **ThirdWeb**, **Solidity**, **IPFS**
 
 ### 🎮 Game Development
-- Building worlds in **Unreal Engine 5** (Blueprints + C++)
-- 3D assets & environments using **Blender**
-- Gameplay loops, mission systems, and economy design
+- Worldbuilding in **Unreal Engine 5** (Blueprints + C++)
+- 3D assets and environments with **Blender**
+- Gameplay systems, mission loops, and economy design
 
-### 🌀 Animation & Creative Tech
-- Motion graphics with **Lottie**, **GSAP**, and **Spline**
-- AI-assisted character animation + lip sync
-- Narrative-driven design using sound, motion, and user psychology
+### 🌀 Creative Tech
+- Motion graphics: **Lottie**, **GSAP**, **Spline**
+- AI-driven animation and narrative systems
 
 ### 🔮 Product Vision & Strategy
-- End-to-end product development from concept to scale
-- Systems thinker focused on gameplay design, user retention, and ecosystem flow
-- First-principles product strategy influenced by **Jobs, Musk, and indie creators**
-- Experience crafting creator economies, incentive loops, and user onboarding systems
+- First-principles product design
+- Creator economies, incentive loops, UX architecture
 
-### 📣 Marketing & Digital Media
-- Storytelling, Podcasts, Live Shows + brand building across **X, Discord, Telegram, and more**
-- Full-funnel launch strategy for games, NFTs, and digital products
-- Short-form content scripting, editing, and motion design for virality
-- Deep focus on audience psychology, narrative hooks, and conversion design
+### 👥 Community, Content & Launch
+- Brand building across **X, Discord, Telegram**
+- Full-funnel digital product launch strategies
+- Narrative-driven viral content design
 
 ---
 
 ## 🧠 Currently Building
-| Project | Description |
-|--------|-------------|
-| 🐎 **Want3d** | A Red Dead meets Rust open-world survival game (UE5) |
-| 🐍 **Yeehaw AI** | AI-powered Agents & 3D asset generation |
-| 💸 **RoundUp DEX** | Gasless, cross-chain, NFT-integrated DEX |
-| 🌵 **Eldorado Marketplace** | Multi-chain NFT platform with embedded animation |
-| 🤠 **Quick Draw Legends** | Hyper-casual Web3 mobile duel game with NFT perks |
+
+| Project | Focus |
+|:--------|:------|
+| 🏏 **Want3d** | Open-world survival shooter (UE5) |
+| 🐍 **Yeehaw AI** | AI asset generation + agent framework |
+| 💸 **RoundUp DEX** | Gasless cross-chain NFT-integrated exchange |
+| 🌵 **Eldorado Marketplace** | Multi-chain NFT platform + animation |
+| 🧐 **Quick Draw Legends** | Web3 hyper-casual mobile duel game |
 
 ---
 
-## 🌍 Let's Work Together
+## 🌍 Core Thesis
 
-If you're a **tech company or fellow digital adventurer looking for edge**, a **startup wanting product magic**, or a **game studio who needs a world-builder with system brains**, I'm your guy.
-
-- I build fast.
-- I design like a player.
-- I think like a product owner.
-- And I always, always finish the mission.
+> **We build digital experiences where technology fades — and humanity deepens.**
 
 ---
 
-## 🧪 Tech Stack
+## 🔬 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
-![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cpp)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss)
@@ -93,50 +73,16 @@ If you're a **tech company or fellow digital adventurer looking for edge**, a **
 
 ---
 
-## 🎯 Goals for 2025+
-- 🚀 Launch and scale an original multi-platform game IP to 100K+ players
-- 🧠 Build a suite of AI tools that empower indie game devs
-- 💼 Land a strategic role at a company shaping the next digital frontier
-- 🎬 Release a short animated film (AI-assisted)
-- 🔓 Open-source a toolkit for no-code 3D asset generation
-- 🎤 Speak at a major tech/gaming conference
-- 🪙 Onboard 1M+ users to Web3 via entertainment, not speculation
-- 🧪 Develop and publish original research and breakthroughs on gameplay psychology, Human–Machine Systems, Decentralized Intelligence, and Quantum Game Sim economies
-- 📺 Produce a viral content series that blends AI, gaming lore, and comedy
-- 🤝 Form strategic partnerships with leading studios, platforms, or protocols  
-- 📚 Mentor upcoming devs and creators through workshops, cohorts, or content 
-- 📈 Grow Posse Studios into the next great digital entertainment platform
+## 🌟 Goals for 2025+
+- Launch an original multi-platform game IP to 100K+ players
+- Build AI-powered creative tools for indie devs
+- Publish research on Human–Machine Systems and Cognitive Economies
+- Release an AI-assisted short animated film
+- Scale Posse Studios into a premier digital entertainment platform
 
 ---
 
-## 🧭 Fields of Interest
-
-- ⚛️ **Quantum Computing & Quantum Software**
-- 🔐 **Blockchain, Cryptography & Decentralized Systems**
-- 🤖 **Embedded Systems & Edge Computing**
-- 🧠 **Human–AI Interaction & Cognitive Computing**
-- 🧬 **Synthetic Biology & Bioinformatics**
-- 🎮 **Gaming, Worldbuilding & Digital Media**
-
----
-
-## 🦾 Fun Facts
-- ⚡ Once launched a product in 24 hours because... why not.
-- ❤️ Survivor of stage 3 complete heart block — been rebooted once, now I run on resilience and raw grit.
-- 🧠 I speak fluent **API**, **bullshit detection**, and semi-fluent **Sarcasm** — all with professionalism, tact, and grace.
-- 🗽 I'm a **Jersey boy**, for better or worse — always rocking a **genuine heart** on my sleeve.
-- 🌐 I’ve built full ecosystems with **zero VC money** by putting people and quality experiences first.
-- 🧩 I believe work should feel like building a game with friends.
-- 🚪 I don’t believe in gatekeeping the next generation of creators.
-- 🏈 Threw bombs on the field as a **semi-pro quarterback** — now I throw 'em in the boardroom.
-- 🥋 Lover of MMA chess matches — fight IQ is just code logic in a cage.
-- 🎶 Musician by night, dev by day — my playlists go as hard as my pull requests.
-- 🏁 Built more turbocharged engines than I’ve had VC calls — and that’s saying something.
-- 🧭 I don’t believe in shortcuts or compromising on integrity. Ever.
-
----
-
-<h2>📬 Contact</h2>
+## 🛍 Contact
 
 <p align="center">
   <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
