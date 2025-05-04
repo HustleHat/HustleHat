@@ -6,7 +6,7 @@
 
 Building at the frontier where technology, imagination, and human intuition collide.
 
-Focused on Human–Machine Systems, Decentralized Intelligence, and Quantum Game Simulation — crafting digital experiences where code, creativity, and connection move as one.
+Focused on Human–Machine Systems, Quantum Game Simulation, and Decentralized Intelligence — crafting digital experiences where code, creativity, and connection move as one.
 
 Founder of Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for the next frontier.
 
