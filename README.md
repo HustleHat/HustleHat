@@ -14,15 +14,20 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 
 ## What I Do
 
-### 💻 Web Development
-- **Next.js**, **React**, **Tailwind** frontend
-- **Node.js**, **GraphQL**, **PostgreSQL**, **Firebase** backend
-- Web3 integrations with **ThirdWeb**, **Solidity**, **IPFS**
+### 🧠 Artificial Intelligence
+- Prompt-to-3D asset generation (**text ➔ FBX/OBJ**)
+- Fine-tuning **Diffusion Models** for creative asset pipelines
+- Python-based AI tools for **3D automation** and **game UX systems**
 
 ### 🎮 Game Development
 - Worldbuilding in **Unreal Engine 5** (Blueprints + C++)
 - 3D assets and environments with **Blender**
 - Gameplay systems, mission loops, and economy design
+
+### 💻 Web Development
+- **Next.js**, **React**, **Tailwind** frontend
+- **Node.js**, **GraphQL**, **PostgreSQL**, **Firebase** backend
+- Web3 integrations with **ThirdWeb**, **Solidity**, **IPFS**
 
 ### 🌀 Creative Tech
 - Motion graphics: **Lottie**, **GSAP**, **Spline**
