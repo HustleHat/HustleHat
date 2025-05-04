@@ -15,9 +15,10 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 ## What I Do
 
 ### 🧠 Artificial Intelligence
-- Prompt-to-3D asset generation (**text ➔ FBX/OBJ**)
+- Prompt-to-asset generation (**text ➔ 3D models, images, animations**)
 - Fine-tuning **Diffusion Models** for creative asset pipelines
-- Python-based AI tools for **3D automation** and **game UX systems**
+- Python-based research and development for **human–machine interaction** and **adaptive narrative systems**
+
 
 ### 🎮 Game Development
 - Worldbuilding in **Unreal Engine 5** (Blueprints + C++)
