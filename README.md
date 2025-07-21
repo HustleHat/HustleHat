@@ -50,8 +50,8 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 | Project | Focus |
 |:--------|:------|
 | 🏏 **Want3d** | Open-world survival shooter (UE5) |
-| 🐍 **Skulpty AI** | AI asset generation + agent framework |
-| 🌵 **DreamBay Marketplace** | Multi-dementional digital asset platform |
+| 🐍 **Skulpty** | AI asset generation + agent framework |
+| 🌵 **DreamBay** | Multi-dementional digital asset platform |
 | 🧐 **Quick Draw Legends** | Hyper-casual mobile duel game |
 
 ---
