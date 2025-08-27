@@ -6,9 +6,9 @@
 
 Building at the frontier where technology, imagination, and human intuition collide.
 
-Focused on Human–Machine Systems, Quantum Game Simulation, and Decentralized Intelligence — crafting digital experiences where code, creativity, and connection move as one.
+Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
 
-Founder of Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
+Co-Founder of Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
 
 ---
 
@@ -18,7 +18,7 @@ Founder of Posse Studios, creating new worlds across gaming, AI, and decentraliz
 - Prompt-to-asset generation (**text ➔ 3D models, images, animations**)
 - Fine-tuning **Diffusion Models** for creative asset pipelines
 - Python-based research and development for **human–machine interaction** and **adaptive narrative systems**
-
+- Creating **game-ready assets** via AI generation + quad-remeshing for clean deformation and UV workflows.
 
 ### 🎮 Game Development
 - Worldbuilding in **Unreal Engine 5** (Blueprints + C++)
