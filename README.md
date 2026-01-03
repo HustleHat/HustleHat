@@ -8,7 +8,7 @@ Building at the frontier where technology, imagination, and human intuition coll
 
 Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
 
-Co-Founder of Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
+Product & Engineering Lead at Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
 
 ---
 
@@ -89,15 +89,6 @@ Co-Founder of Posse Studios, creating new worlds across gaming, AI, and decentra
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
-
----
-
-## Goals for 2025+
-- Launch an original multi-platform game IP to 100K+ players
-- Build AI-powered creative tools for indie devs
-- Publish research on Human–Machine Systems and Cognitive Economies
-- Release an AI-assisted short animated film
-- Scale Posse Studios into a premier digital entertainment platform
 
 ---
 
