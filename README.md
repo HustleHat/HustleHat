@@ -6,7 +6,7 @@
 
 Building at the frontier where technology, imagination, and human intuition collide.
 
-Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
+Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Artifical Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
 
 Product & Engineering Lead at Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
 
