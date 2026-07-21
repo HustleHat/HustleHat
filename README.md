@@ -51,7 +51,7 @@ Product engineering lead at Posse Studios, creating new worlds across gaming, AI
 |:--------|:------|
 | 🐍 **Skulpty** | AI asset generation + agent framework |
 | 🌵 **DreamBay** | Multi-dementional digital asset platform |
-| 🏏 **Wanted** | Open-world survival shooter (UE5) |
+| 🏏 **Want3d** | Open-world survival shooter (UE5) |
 | 🧐 **Quick Draw Legends** | Hyper-casual mobile duel game |
 
 ---
