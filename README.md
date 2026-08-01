@@ -12,7 +12,7 @@
 
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
 
-Focused on systems that empower users, creators, and communities for deeper human connection and experiences: Open Source Artificial Intelligence, Human–Machine Systems, Quantum Game Simulation, Decentralized Systems, and Topology-aware generative 3D.
+Focused on systems that empower users, creators, and communities for deeper human connection and experiences: Open Source Artificial Intelligence, Human Machine Systems, Quantum Game Simulation, Decentralized Systems, and Topology aware generative 3D.
 
 ---
 
