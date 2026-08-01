@@ -4,23 +4,26 @@
 
 ## Background
 
-Building at the frontier where technology, imagination, and human intuition collide.
+Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
 
 Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Artifical Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
 
-Product engineering lead at Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
+Founder at IQou & Head of Product Engineering Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
 
 ---
 
 ## What I Do
 
 ### 🧠 AI/ML
+- Multi-agent orchestration and **autonomous agent systems** (planning, tool use, escalation design)
+- **LLM-driven knowledge synthesis** pipelines (compression-based, not retrieval-based)
+- Model routing and **capability/cost tiering** across frontier and open-weight models
 - Prompt-to-asset generation (**text ➔ 3D models, images, animations**)
 - Fine-tuning **Diffusion Models** for creative asset pipelines
 - Python-based research and development for **human–machine interaction** and **adaptive narrative systems**
 
 ### 🎮 Game Development
-- Worldbuilding in **Unreal Engine 5** (Blueprints + C++)
+- Worldbuilding in **Unreal Engine**
 - 3D assets and environments with **Blender**
 - Gameplay systems, mission loops, and economy design
 
@@ -38,7 +41,7 @@ Product engineering lead at Posse Studios, creating new worlds across gaming, AI
 - Creator economies, incentive loops, UX architecture
 
 ### 👥 Community, Content & Launch
-- Brand building across **X, Discord, Telegram**
+- Brand building across social media
 - Full-funnel digital product launch strategies
 - Narrative-driven viral content design
 
@@ -48,10 +51,13 @@ Product engineering lead at Posse Studios, creating new worlds across gaming, AI
 
 | Project | Focus |
 |:--------|:------|
+| 🧠 **Noble** | Open-source language model, built from scratch |
+| ⚙️ **I.R.O.N.** | Autonomous multi-agent operations OS |
+| 📡 **SignalHunt** | Market opportunity intelligence engine |
+| 🎯 **ProspectIQ** | Automated prospect discovery and targeting |
 | 🐍 **Skulpty** | AI asset generation + agent framework |
 | 🌵 **DreamBay** | Multi-dementional digital asset platform |
 | 🏏 **Want3d** | Open-world survival shooter (UE5) |
-| 🧐 **Quick Draw Legends** | Hyper-casual mobile duel game |
 
 ---
 
