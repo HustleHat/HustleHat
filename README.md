@@ -97,25 +97,3 @@ Focused on systems that empower users, creators, and communities for deeper huma
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
-
----
-
-## Contact
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:cnoble@iqou.xyz" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://substack.com/@chrismnoble" target="_blank">
-    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
-  </a>
-  <a href="https://www.youtube.com/@chrismnoble" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
-  </a>
-    <a href="https://x.com/chrismnoble" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
-</p>
