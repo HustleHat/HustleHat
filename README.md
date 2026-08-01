@@ -14,11 +14,10 @@ Product engineering lead at Posse Studios, creating new worlds across gaming, AI
 
 ## What I Do
 
-### 🧠 Artificial Intelligence
+### 🧠 AI/ML
 - Prompt-to-asset generation (**text ➔ 3D models, images, animations**)
 - Fine-tuning **Diffusion Models** for creative asset pipelines
 - Python-based research and development for **human–machine interaction** and **adaptive narrative systems**
-- Creating **game-ready assets** via AI generation + quad-remeshing for clean deformation and UV workflows.
 
 ### 🎮 Game Development
 - Worldbuilding in **Unreal Engine 5** (Blueprints + C++)
