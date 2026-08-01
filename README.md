@@ -2,6 +2,12 @@
 
 <img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
+## Core Thesis
+
+> **Building digital experiences where technology fades and humanity deepens.**
+
+---
+
 ## Background
 
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
@@ -61,12 +67,6 @@ Focused on systems that empower users, creators, and communities for deeper huma
 | 🐍 **Skulpty** | AI asset generation + agent framework |
 | 🌵 **DreamBay** | Multi-dementional digital asset platform |
 | 🏏 **Want3d** | Open-world survival shooter (UE5) |
-
----
-
-## Core Thesis
-
-> **Building digital experiences where technology fades and humanity deepens.**
 
 ---
 
