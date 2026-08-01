@@ -1,6 +1,6 @@
 # Christopher M. Noble
 
-<img src="https://github.com/HustleHat/HustleHat/blob/main/banner.png?raw=true" alt="Hustle Hat Banner" style="width:100%"/>
+<img src="https://github.com/user-attachments/assets/d12093c9-9554-49b1-bf31-d40e09ef4005" alt="banner2" style="width:100%"/>
 
 ## Background
 
