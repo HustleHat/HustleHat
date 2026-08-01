@@ -15,35 +15,40 @@ Founder at IQou & Head of Product Engineering Posse Studios, creating new worlds
 ## What I Do
 
 ### 🧠 AI/ML
-- Multi-agent orchestration and **autonomous agent systems** (planning, tool use, escalation design)
-- **LLM-driven knowledge synthesis** pipelines (compression-based, not retrieval-based)
-- Model routing and **capability/cost tiering** across frontier and open-weight models
-- Prompt-to-asset generation (**text ➔ 3D models, images, animations**)
-- Fine-tuning **Diffusion Models** for creative asset pipelines
+- Multi-agent orchestration and **autonomous agent systems**
+- Building **language models** with a focus on **training efficiency over raw scale**
+- Fine-tuning and developing **Diffusion Models** for creative 3D asset pipelines
 - Python-based research and development for **human–machine interaction** and **adaptive narrative systems**
 
 ### 🎮 Game Development
-- Worldbuilding in **Unreal Engine**
+- Worldbuilding in **Unreal Engine** and **Unity 6 LTS**
 - 3D assets and environments with **Blender**
 - Gameplay systems, mission loops, and economy design
+- Procedural world generation and **modular level design**
 
 ### 💻 Web Development
 - **Next.js**, **React**, **Tailwind** frontend
 - **Node.js**, **GraphQL**, **PostgreSQL**, **Firebase** backend
 - Web3 integrations with **ThirdWeb**, **Solidity**, **IPFS**
+- AI-native application architecture
 
 ### 🌀 Creative Tech
 - Motion graphics: **Lottie**, **GSAP**, **Spline**
 - AI-driven animation and narrative systems
+- Generative 3D pipelines: **text-to-mesh**, retopology, game-ready output
+- Design systems and **brand visual identity** at product scale
 
 ### 🔮 Product Vision & Strategy
 - First-principles product design
 - Creator economies, incentive loops, UX architecture
+- 0-to-1 product specs, build docs, and technical roadmaps
+- Pricing, monetization modeling, and unit economics
 
 ### 👥 Community, Content & Launch
 - Brand building across social media
 - Full-funnel digital product launch strategies
 - Narrative-driven viral content design
+- Building in public: technical storytelling and developer-facing content
 
 ---
 
