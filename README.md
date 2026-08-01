@@ -112,10 +112,10 @@ Focused on systems that empower users, creators, and communities for deeper huma
   <a href="https://substack.com/@chrismnoble" target="_blank">
     <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
   </a>
-  <a href="https://x.com/chrismnoble" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>
   <a href="https://www.youtube.com/@chrismnoble" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+  </a>
+    <a href="https://x.com/chrismnoble" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
 </p>
