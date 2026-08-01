@@ -97,3 +97,6 @@ Focused on systems that empower users, creators, and communities for deeper huma
 ![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-0E1128?style=flat-square&logo=unrealengine)
 ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender)
 ![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
