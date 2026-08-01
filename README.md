@@ -1,6 +1,6 @@
 # Christopher M. Noble
 
-![banner2](https://github.com/user-attachments/assets/d12093c9-9554-49b1-bf31-d40e09ef4005)
+<img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
 ## Background
 
