@@ -8,7 +8,7 @@ Product engineer turned AI & computer vision nerd. I build cool shit, document i
 
 Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Artifical Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
 
-Founder at IQou & Head of Product Engineering Posse Studios, creating new worlds across gaming, AI, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
+Founder at IQou & Head of Product Engineering Posse Studios, creating new worlds across AI, gaming, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
 
 ---
 
