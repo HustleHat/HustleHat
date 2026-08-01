@@ -6,9 +6,7 @@
 
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
 
-Focused on Human–Machine Systems, Quantum Game Simulation, Decentralized Artifical Intelligence, and Topology-aware generative 3D — crafting digital experiences where code, creativity, and connection move as one.
-
-Founder at IQou & Head of Product Engineering Posse Studios, creating new worlds across AI, gaming, and decentralized ecosystems — systems that empower users, creators, and communities for deeper human connection and experiences.
+Focused on systems that empower users, creators, and communities for deeper human connection and experiences - Human–Machine Systems, Quantum Game Simulation, Decentralized Artificial Intelligence, and Topology-aware generative 3D.
 
 ---
 
@@ -108,22 +106,16 @@ Founder at IQou & Head of Product Engineering Posse Studios, creating new worlds
   <a href="https://www.linkedin.com/in/christopher-m-n-489301190/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:hustlehat@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <a href="mailto:cnoble@iqou.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://discord.gg/possestudios" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  <a href="https://substack.com/@chrismnoble" target="_blank">
+    <img src="https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white" alt="Substack"/>
   </a>
-  <a href="https://t.me/HustleHat" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <a href="https://x.com/chrismnoble" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://medium.com/@hustlehat" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
-  <a href="https://x.com/HustleHat" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/>
-  </a>
-  <a href="https://www.youtube.com/@HustleHat" target="_blank">
+  <a href="https://www.youtube.com/@chrismnoble" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 </p>
