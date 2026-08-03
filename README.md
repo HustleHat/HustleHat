@@ -1,5 +1,27 @@
 # Christopher M. Noble
 
+```ansi
+[1;94m$[0m noblefetch
+[94m                    ''':dOXXX0ko;[0m
+[94m          'lOKNNNNWMMMMMMMMMW0XMMKc[0m           [1;94mchris@noble[0m
+[94m         dWMMkckMMMMMNXNMMMMX, c0MWd[0m          [1;94m-----------[0m
+[94m        xMMMMX: :0Nk; ' ,xWMMMO; ,,';dXk'[0m     [94mUptime:[0m 5 years
+[94m     ,kWMMMMMMMO;   cXMKl 'OMMMMNXXNMMMMX'[0m    [94mProgramming languages:[0m TypeScript, Python, C++, C, Rust, Java, Solidity
+[94m    cWMMMWXxooxXMNK0doNMKc ';dKMMMNkl0MMMc[0m    [94mOS:[0m macOS
+[94m   'NMM0; ':oo; ;o:',dXc 'oOd' :o:''lXMMX'[0m    [94mShell:[0m Zsh
+[94m   ;WMMNOXWMMMWkccxXMMM0xXMWXo'  l0WMMWk'[0m     [94mEditor:[0m Vim (daily), JetBrains
+[94m    OMMMMMMM0l'   ;kKXd; 'c'':dl, ,dN0'[0m       [94mEngines:[0m Unreal Engine 5, Unity 6 LTS, Blender
+[94m     xWMMMMd :ONWXl,  'dKNddKWNKk;,lO,[0m        [94mFocus:[0m machine learning systems, diffusion, generative 3D
+[94m      'o0MMMWMMMMMXo, ,KMMMx:,,;lxOOOko,[0m      [94mBuilding:[0m Noble, I.R.O.N., SignalHunt, ProspectIQ, Skulpty, DreamBay, Want3d
+[94m         dMMMMMMMWo:xKMMMMMMNkkkkkOOOOX0[0m      [94mHobby:[0m worldbuilding, content creation, musician, mma
+[94m          ,xKWMMMMMNXXWMMMMMWOOOOOOOOOOl[0m
+[94m              ',,,.   0MMMMMWdx0KNKXkl'[0m       [1;94mcontacts[0m
+[94m                     'KMMMMMX[0m                 [1;94m--------[0m
+[94m                     ;WMMMMMd[0m                 [94mGitHub:[0m github.com/christophermnoble
+[94m                     cMMMMMW;[0m                 [94mEmail:[0m cnoble@iqou.xyz
+[94m                     ,OWMWKo[0m
+```
+
 <img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
 ## Core Thesis
