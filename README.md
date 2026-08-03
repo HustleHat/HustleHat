@@ -2,7 +2,11 @@
 
 <img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
-<img src="noblefetch-v9.svg" alt="noblefetch" style="width:100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="noblefetch-dark-v10.svg">
+  <source media="(prefers-color-scheme: light)" srcset="noblefetch-light-v10.svg">
+  <img src="noblefetch-dark-v10.svg" alt="noblefetch" style="width:100%" />
+</picture>
 
 ## Core Thesis
 
