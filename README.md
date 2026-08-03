@@ -1,8 +1,11 @@
 # Christopher M. Noble
 
 <p align="center">
-  <img src="assets/pfp-ascii.svg" width="288" alt="Binary ASCII portrait of Chris Noble" />
-  <img src="assets/banner-2x1.png" width="576" alt="Moonrise over the lighthouses" />
+  <img src="assets/pfp-ascii.svg" width="690" alt="Binary ASCII portrait of Chris Noble" />
+</p>
+
+<p align="center">
+  <img src="assets/banner-wide.png" width="690" alt="Moonrise over the lighthouses" />
 </p>
 
 ## Core Thesis
