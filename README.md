@@ -3,9 +3,9 @@
 <img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="noblefetch-dark-v18.svg">
-  <source media="(prefers-color-scheme: light)" srcset="noblefetch-light-v18.svg">
-  <img src="noblefetch-dark-v18.svg" alt="noblefetch" style="width:100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="noblefetch-dark-v19.svg">
+  <source media="(prefers-color-scheme: light)" srcset="noblefetch-light-v19.svg">
+  <img src="noblefetch-dark-v19.svg" alt="noblefetch" style="width:100%" />
 </picture>
 
 ## Core Thesis
