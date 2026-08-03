@@ -1,6 +1,9 @@
 # Christopher M. Noble
 
-<img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
+<p align="center">
+  <img src="assets/pfp-ascii.svg" width="288" alt="Binary ASCII portrait of Chris Noble" />
+  <img src="assets/banner-2x1.png" width="576" alt="Moonrise over the lighthouses" />
+</p>
 
 ## Core Thesis
 
