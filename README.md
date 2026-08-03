@@ -1,28 +1,6 @@
 # Christopher M. Noble
 
-```
-$ noblefetch
-                     ',,'
-         .:loooxkOOXWMMMWWKk,         chris@noble
-       'OWMOkWMMMMNWMMMN;,OWWo        -----------
-      ;XMMMk',OKd,,':OMMWk;,;,:x0:    Uptime: 5 years
-    cXMMMMMMNx:,cOWWd';KMMMWNWMMMW:   Programming languages: TypeScript, Python, C++, C,
-   oMMNOo;,,:kN0c'kKo',,,oKKk:,XMMc                          Rust, Java, Solidity
-   XMMklkKWWk:;cxNWdlXMWx' ,lOWMWd    OS: macOS
-   dMMMMMMXo;,,lXNOc':l,;l:';xWx'     Shell: Zsh
-    oNMMMO;dKWKd;  dNKdkXXkl:dO;      Editor: Vim, JetBrains
-      ;kMMMMMMMd,,lKMMNklodkOOOkx     Engines: Unreal Engine 5, Unity 6 LTS, Blender
-        oKMMMMMKKWMMMMMWOxxxxxxx0,    Focus: machine learning systems, diffusion,
-          ':lllc,'dMMMMMkOXNNK0o'            generative 3D
-                  kMMMMN,             Building: Noble, I.R.O.N., SignalHunt, ProspectIQ,
-                  XMMMMO                        Skulpty, DreamBay, Want3d
-                  XMMMWc              Hobby: worldbuilding, content creation, musician, mma
-                   :lc'
-                                      contacts
-                                      --------
-                                      GitHub: github.com/christophermnoble
-                                      Email: cnoble@iqou.xyz
-```
+<img src="noblefetch.svg" alt="noblefetch" style="width:100%" />
 
 <img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
