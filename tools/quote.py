@@ -9,8 +9,9 @@ round. 61 characters plus the prompt must clear 870px, so FS is capped at about
 22 -- see the assert in main(). Lengthen the quote and that cap drops; the
 assert fails loudly instead of letting the tail clip off the canvas.
 
-Attribution sits below, right-aligned to the end of the quote, and only appears
-once the line is fully typed.
+Attribution sits inline, to the right of the quote on the same baseline, and
+only appears once the line is fully typed. Its x is computed from the quote's
+end, so it follows the text through any size or wording change.
 
 Loop STARTS and ENDS fully typed, so a frozen render -- backgrounded tab,
 reduced motion, static rasteriser -- shows the whole quote rather than a bare
@@ -24,7 +25,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v4"
+VERSION = "v5"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 QUOTE = "We are dreamers of dreams"
@@ -35,7 +36,7 @@ ATTRIB = "— Willy Wonka"
 # assert will tell you the new ceiling.
 # Matched to tools/banners.py -- same size, same advance width, same prompt
 # offset -- so the opening line reads as one more header, not a bigger thing.
-W, H = 870, 78
+W, H = 870, 52
 FS = 26
 CW = FS * 0.62
 X = FS                      # text starts one glyph past the "$"
@@ -43,7 +44,8 @@ Y = 34
 
 AT_FS = 14
 AT_CW = AT_FS * 0.62
-AT_Y = 62
+AT_Y = 34                   # same baseline as the quote -- it sits alongside
+AT_GAP = 26                 # clearance past the cursor
 
 TYPE_PER_CHAR = 0.06
 ERASE_PER_CHAR = 0.02
@@ -87,7 +89,7 @@ def build(pal):
     stops = "".join(
         f'<stop offset="{i/(len(pal["stops"])-1):.4g}" stop-color="{c}"/>'
         for i, c in enumerate(pal["stops"]))
-    at_x = X + N * CW - len(ATTRIB) * AT_CW       # right-align under the quote
+    at_x = X + N * CW + AT_GAP                     # sits just past the cursor
     full = f"{QUOTE} {ATTRIB}"
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" \
 viewBox="0 0 {W} {H}" role="img" aria-label="{escape(full)}">
