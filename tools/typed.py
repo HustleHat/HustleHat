@@ -18,7 +18,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v2"
+VERSION = "v3"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 TEXT = "Building digital experiences where technology fades and humanity deepens."
@@ -36,8 +36,10 @@ ERASE_PER_CHAR = 0.018
 HOLD = 5.0
 GAP = 0.7
 
-DARK = {"stops": ["#22d3ee", "#58a6ff", "#a855f7", "#f472b6"], "cursor": "#58a6ff"}
-LIGHT = {"stops": ["#0891b2", "#2563eb", "#9333ea", "#db2777"], "cursor": "#2563eb"}
+DARK = {"stops": ["#22d3ee", "#58a6ff", "#a855f7", "#f472b6"],
+        "cursor": "#58a6ff", "ink": "#ffffff"}
+LIGHT = {"stops": ["#0891b2", "#2563eb", "#9333ea", "#db2777"],
+         "cursor": "#2563eb", "ink": "#1f2328"}
 
 
 def timeline():
@@ -91,7 +93,7 @@ dur="{total:.2f}s" calcMode="discrete" repeatCount="indefinite"/>
     </mask>
   </defs>
   <text x="{X}" y="{BASE_Y}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" \
-font-size="{FS}" font-weight="600" fill="url(#g)" mask="url(#reveal)" \
+font-size="{FS}" font-weight="600" fill="{pal['ink']}" mask="url(#reveal)" \
 textLength="{tl:.1f}" lengthAdjust="spacingAndGlyphs">{escape(TEXT)}</text>
   <rect y="{BASE_Y - FS + 3}" width="2.5" height="{FS}" fill="{pal['cursor']}">
     <animate attributeName="x" values="{c_vals}" keyTimes="{keytimes}" \

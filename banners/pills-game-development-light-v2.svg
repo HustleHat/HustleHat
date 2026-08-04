@@ -5,19 +5,19 @@
   <g transform="translate(0,34)">
     <g transform="translate(0.0,0.0)">
       <rect width="353.2" height="26" rx="13.0" fill="#1975d4" fill-opacity="0.1" stroke="#1975d4" stroke-opacity="0.4"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1975d4" textLength="331.2" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Worldbuilding in </tspan><tspan font-weight="700">Unreal Engine</tspan><tspan font-weight="400"> and </tspan><tspan font-weight="700">Unity 6 LTS</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1f2328" textLength="331.2" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Worldbuilding in </tspan><tspan font-weight="700">Unreal Engine</tspan><tspan font-weight="400"> and </tspan><tspan font-weight="700">Unity 6 LTS</tspan></text>
     </g>
     <g transform="translate(359.2,0.0)">
       <rect width="302.8" height="26" rx="13.0" fill="#1975d4" fill-opacity="0.1" stroke="#1975d4" stroke-opacity="0.4"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1975d4" textLength="280.8" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">3D assets and environments with </tspan><tspan font-weight="700">Blender</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1f2328" textLength="280.8" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">3D assets and environments with </tspan><tspan font-weight="700">Blender</tspan></text>
     </g>
     <g transform="translate(0.0,34.0)">
       <rect width="389.2" height="26" rx="13.0" fill="#1975d4" fill-opacity="0.1" stroke="#1975d4" stroke-opacity="0.4"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1975d4" textLength="367.2" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Gameplay systems, mission loops, and economy design</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1f2328" textLength="367.2" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Gameplay systems, mission loops, and economy design</tspan></text>
     </g>
     <g transform="translate(395.2,34.0)">
       <rect width="396.4" height="26" rx="13.0" fill="#1975d4" fill-opacity="0.1" stroke="#1975d4" stroke-opacity="0.4"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1975d4" textLength="374.4" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Procedural world generation and </tspan><tspan font-weight="700">modular level design</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#1f2328" textLength="374.4" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Procedural world generation and </tspan><tspan font-weight="700">modular level design</tspan></text>
     </g>
   </g>
 </svg>

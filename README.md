@@ -16,15 +16,15 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v2.svg">
-  <img src="banners/core-thesis-dark-v2.svg" alt="Core Thesis" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v3.svg">
+  <img src="banners/core-thesis-dark-v3.svg" alt="Core Thesis" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/thesis-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/thesis-light-v2.svg">
-  <img src="banners/thesis-dark-v2.svg" alt="Building digital experiences where technology fades and humanity deepens." width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/thesis-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/thesis-light-v3.svg">
+  <img src="banners/thesis-dark-v3.svg" alt="Building digital experiences where technology fades and humanity deepens." width="870" />
 </picture>
 
 <picture>
@@ -34,9 +34,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v2.svg">
-  <img src="banners/background-dark-v2.svg" alt="Background" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v3.svg">
+  <img src="banners/background-dark-v3.svg" alt="Background" width="870" />
 </picture>
 
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
@@ -50,45 +50,45 @@ My focus is on systems that empower users, creators, and communities for deeper 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v2.svg">
-  <img src="banners/what-i-do-dark-v2.svg" alt="What I Do" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v3.svg">
+  <img src="banners/what-i-do-dark-v3.svg" alt="What I Do" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-ai-ml-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/pills-ai-ml-light-v1.svg">
-  <img src="banners/pills-ai-ml-dark-v1.svg" alt="AI/ML: Multi-agent orchestration and autonomous agent systems, Building language models with a focus on training efficiency over raw scale, Fine-tuning and developing Diffusion Models for creative 3D asset pipelines, Python-based research and development for human–machine interaction and adaptive narrative systems" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-ai-ml-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-ai-ml-light-v2.svg">
+  <img src="banners/pills-ai-ml-dark-v2.svg" alt="AI/ML: Multi-agent orchestration and autonomous agent systems, Building language models with a focus on training efficiency over raw scale, Fine-tuning and developing Diffusion Models for creative 3D asset pipelines, Python-based research and development for human–machine interaction and adaptive narrative systems" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-game-development-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/pills-game-development-light-v1.svg">
-  <img src="banners/pills-game-development-dark-v1.svg" alt="Game Development: Worldbuilding in Unreal Engine and Unity 6 LTS, 3D assets and environments with Blender, Gameplay systems, mission loops, and economy design, Procedural world generation and modular level design" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-game-development-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-game-development-light-v2.svg">
+  <img src="banners/pills-game-development-dark-v2.svg" alt="Game Development: Worldbuilding in Unreal Engine and Unity 6 LTS, 3D assets and environments with Blender, Gameplay systems, mission loops, and economy design, Procedural world generation and modular level design" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-web-development-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/pills-web-development-light-v1.svg">
-  <img src="banners/pills-web-development-dark-v1.svg" alt="Web Development: Next.js, React, Tailwind frontend, Node.js, GraphQL, PostgreSQL, Firebase backend, Web3 integrations with ThirdWeb, Solidity, IPFS, AI-native application architecture" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-web-development-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-web-development-light-v2.svg">
+  <img src="banners/pills-web-development-dark-v2.svg" alt="Web Development: Next.js, React, Tailwind frontend, Node.js, GraphQL, PostgreSQL, Firebase backend, Web3 integrations with ThirdWeb, Solidity, IPFS, AI-native application architecture" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-creative-tech-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/pills-creative-tech-light-v1.svg">
-  <img src="banners/pills-creative-tech-dark-v1.svg" alt="Creative Tech: Motion graphics: Lottie, GSAP, Spline, AI-driven animation and narrative systems, Generative 3D pipelines: text-to-mesh, retopology, game-ready output, Design systems and brand visual identity at product scale" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-creative-tech-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-creative-tech-light-v2.svg">
+  <img src="banners/pills-creative-tech-dark-v2.svg" alt="Creative Tech: Motion graphics: Lottie, GSAP, Spline, AI-driven animation and narrative systems, Generative 3D pipelines: text-to-mesh, retopology, game-ready output, Design systems and brand visual identity at product scale" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-product-vision-strategy-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/pills-product-vision-strategy-light-v1.svg">
-  <img src="banners/pills-product-vision-strategy-dark-v1.svg" alt="Product Vision & Strategy: First-principles product design, Creator economies, incentive loops, UX architecture, 0-to-1 product specs, build docs, and technical roadmaps, Pricing, monetization modeling, and unit economics" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-product-vision-strategy-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-product-vision-strategy-light-v2.svg">
+  <img src="banners/pills-product-vision-strategy-dark-v2.svg" alt="Product Vision & Strategy: First-principles product design, Creator economies, incentive loops, UX architecture, 0-to-1 product specs, build docs, and technical roadmaps, Pricing, monetization modeling, and unit economics" width="870" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-community-content-launch-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/pills-community-content-launch-light-v1.svg">
-  <img src="banners/pills-community-content-launch-dark-v1.svg" alt="Community, Content & Launch: Brand building across social media, Full-funnel digital product launch strategies, Narrative-driven viral content design, Building in public: technical storytelling and developer-facing content" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-community-content-launch-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-community-content-launch-light-v2.svg">
+  <img src="banners/pills-community-content-launch-dark-v2.svg" alt="Community, Content & Launch: Brand building across social media, Full-funnel digital product launch strategies, Narrative-driven viral content design, Building in public: technical storytelling and developer-facing content" width="870" />
 </picture>
 
 <picture>
@@ -98,9 +98,9 @@ My focus is on systems that empower users, creators, and communities for deeper 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v2.svg">
-  <img src="banners/currently-building-dark-v2.svg" alt="Currently Building" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v3.svg">
+  <img src="banners/currently-building-dark-v3.svg" alt="Currently Building" width="870" />
 </picture>
 
 <picture>
@@ -116,9 +116,9 @@ My focus is on systems that empower users, creators, and communities for deeper 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v2.svg">
-  <img src="banners/tech-stack-dark-v2.svg" alt="Tech Stack" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v3.svg">
+  <img src="banners/tech-stack-dark-v3.svg" alt="Tech Stack" width="870" />
 </picture>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)

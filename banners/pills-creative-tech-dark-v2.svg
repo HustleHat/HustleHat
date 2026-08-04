@@ -5,19 +5,19 @@
   <g transform="translate(0,34)">
     <g transform="translate(0.0,0.0)">
       <rect width="288.4" height="26" rx="13.0" fill="#9865f9" fill-opacity="0.14" stroke="#9865f9" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9865f9" textLength="266.4" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Motion graphics: </tspan><tspan font-weight="700">Lottie</tspan><tspan font-weight="400">, </tspan><tspan font-weight="700">GSAP</tspan><tspan font-weight="400">, </tspan><tspan font-weight="700">Spline</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="266.4" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Motion graphics: </tspan><tspan font-weight="700">Lottie</tspan><tspan font-weight="400">, </tspan><tspan font-weight="700">GSAP</tspan><tspan font-weight="400">, </tspan><tspan font-weight="700">Spline</tspan></text>
     </g>
     <g transform="translate(294.4,0.0)">
       <rect width="317.2" height="26" rx="13.0" fill="#9865f9" fill-opacity="0.14" stroke="#9865f9" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9865f9" textLength="295.2" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">AI-driven animation and narrative systems</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="295.2" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">AI-driven animation and narrative systems</tspan></text>
     </g>
     <g transform="translate(0.0,34.0)">
       <rect width="511.6" height="26" rx="13.0" fill="#9865f9" fill-opacity="0.14" stroke="#9865f9" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9865f9" textLength="489.6" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Generative 3D pipelines: </tspan><tspan font-weight="700">text-to-mesh</tspan><tspan font-weight="400">, retopology, game-ready output</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="489.6" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Generative 3D pipelines: </tspan><tspan font-weight="700">text-to-mesh</tspan><tspan font-weight="400">, retopology, game-ready output</tspan></text>
     </g>
     <g transform="translate(0.0,68.0)">
       <rect width="432.4" height="26" rx="13.0" fill="#9865f9" fill-opacity="0.14" stroke="#9865f9" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#9865f9" textLength="410.4" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Design systems and </tspan><tspan font-weight="700">brand visual identity</tspan><tspan font-weight="400"> at product scale</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="410.4" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Design systems and </tspan><tspan font-weight="700">brand visual identity</tspan><tspan font-weight="400"> at product scale</tspan></text>
     </g>
   </g>
 </svg>

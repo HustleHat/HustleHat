@@ -15,7 +15,7 @@ editing a file in place shows stale artwork indefinitely.
 
 import pathlib
 
-VERSION = "v2"
+VERSION = "v3"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 W, H = 870, 58
@@ -26,8 +26,11 @@ RULE_Y = 44
 LEAD = 120              # bright leading segment of the rule
 
 # Saturated on #0d1117; darkened for contrast on white. Same hues either way.
-DARK = {"cy": "#22d3ee", "bl": "#58a6ff", "pu": "#a855f7", "pk": "#f472b6", "dim": "#6e7681"}
-LIGHT = {"cy": "#0891b2", "bl": "#2563eb", "pu": "#9333ea", "pk": "#db2777", "dim": "#6a737d"}
+DARK = {"cy": "#22d3ee", "bl": "#58a6ff", "pu": "#a855f7", "pk": "#f472b6",
+        "dim": "#6e7681", "ink": "#ffffff"}
+# "white" cannot be literal here or the title vanishes on a light canvas.
+LIGHT = {"cy": "#0891b2", "bl": "#2563eb", "pu": "#9333ea", "pk": "#db2777",
+         "dim": "#6a737d", "ink": "#1f2328"}
 
 # Each section gets its own run through the palette, so the page moves cyan to
 # pink as you scroll instead of repeating one gradient five times.
@@ -60,9 +63,9 @@ viewBox="0 0 {W} {H}" role="img" aria-label="{title.title()}">
   <title>{title.title()}</title>
   <defs>{gradient("g", stops, pal)}</defs>
   <text x="0" y="{BASE_Y}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" \
-font-size="{FS}" fill="{pal['dim']}">$</text>
+font-size="{FS}" fill="url(#g)">$</text>
   <text x="{FS}" y="{BASE_Y}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" \
-font-size="{FS}" font-weight="700" fill="url(#g)" \
+font-size="{FS}" font-weight="700" fill="{pal['ink']}" \
 textLength="{tl:.1f}" lengthAdjust="spacingAndGlyphs">{title}</text>
   <rect x="0" y="{RULE_Y}" width="{W}" height="2" rx="1" fill="url(#g)" opacity="0.45"/>
   <rect x="0" y="{RULE_Y}" width="{LEAD}" height="2" rx="1" fill="{pal[stops[0]]}"/>

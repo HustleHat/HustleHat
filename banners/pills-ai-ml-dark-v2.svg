@@ -5,19 +5,19 @@
   <g transform="translate(0,34)">
     <g transform="translate(0.0,0.0)">
       <rect width="410.8" height="26" rx="13.0" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#22d3ee" textLength="388.8" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Multi-agent orchestration and </tspan><tspan font-weight="700">autonomous agent systems</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="388.8" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Multi-agent orchestration and </tspan><tspan font-weight="700">autonomous agent systems</tspan></text>
     </g>
     <g transform="translate(0.0,34.0)">
       <rect width="562.0" height="26" rx="13.0" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#22d3ee" textLength="540.0" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Building </tspan><tspan font-weight="700">language models</tspan><tspan font-weight="400"> with a focus on </tspan><tspan font-weight="700">training efficiency over raw scale</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="540.0" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Building </tspan><tspan font-weight="700">language models</tspan><tspan font-weight="400"> with a focus on </tspan><tspan font-weight="700">training efficiency over raw scale</tspan></text>
     </g>
     <g transform="translate(0.0,68.0)">
       <rect width="562.0" height="26" rx="13.0" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#22d3ee" textLength="540.0" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Fine-tuning and developing </tspan><tspan font-weight="700">Diffusion Models</tspan><tspan font-weight="400"> for creative 3D asset pipelines</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="540.0" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Fine-tuning and developing </tspan><tspan font-weight="700">Diffusion Models</tspan><tspan font-weight="400"> for creative 3D asset pipelines</tspan></text>
     </g>
     <g transform="translate(0.0,102.0)">
       <rect width="727.6" height="26" rx="13.0" fill="#22d3ee" fill-opacity="0.14" stroke="#22d3ee" stroke-opacity="0.42"/>
-      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#22d3ee" textLength="705.6" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Python-based research and development for </tspan><tspan font-weight="700">human–machine interaction</tspan><tspan font-weight="400"> and </tspan><tspan font-weight="700">adaptive narrative systems</tspan></text>
+      <text x="11" y="17.5" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="12" fill="#ffffff" textLength="705.6" lengthAdjust="spacingAndGlyphs"><tspan font-weight="400">Python-based research and development for </tspan><tspan font-weight="700">human–machine interaction</tspan><tspan font-weight="400"> and </tspan><tspan font-weight="700">adaptive narrative systems</tspan></text>
     </g>
   </g>
 </svg>

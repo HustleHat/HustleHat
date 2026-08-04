@@ -22,7 +22,7 @@ import pathlib
 import re
 from xml.sax.saxutils import escape
 
-VERSION = "v1"
+VERSION = "v2"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 W = 870
@@ -43,8 +43,8 @@ DARK_RAMP = ["#22d3ee", "#58a6ff", "#a855f7", "#f472b6"]
 LIGHT_RAMP = ["#0891b2", "#2563eb", "#9333ea", "#db2777"]
 
 # fill alpha, stroke alpha, and whether pill text uses the accent or near-black
-DARK_STYLE = {"fill": 0.14, "stroke": 0.42, "text": None}
-LIGHT_STYLE = {"fill": 0.10, "stroke": 0.40, "text": None}
+DARK_STYLE = {"fill": 0.14, "stroke": 0.42, "text": "#ffffff"}
+LIGHT_STYLE = {"fill": 0.10, "stroke": 0.40, "text": "#1f2328"}
 
 DISCIPLINES = [
     ('\U0001f9e0', 'AI/ML', 'ai-ml', [
@@ -129,7 +129,7 @@ def pill(x, y, bullet, colour, style):
         f'stroke="{colour}" stroke-opacity="{style["stroke"]}"/>\n'
         f'      <text x="{PAD_X}" y="{TEXT_DY}" '
         f'font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" '
-        f'font-size="{FS}" fill="{colour}" '
+        f'font-size="{FS}" fill="{style["text"]}" '
         f'textLength="{tw:.1f}" lengthAdjust="spacingAndGlyphs">{body}</text>\n'
         f"    </g>"
     )
