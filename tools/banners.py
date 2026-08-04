@@ -15,7 +15,7 @@ editing a file in place shows stale artwork indefinitely.
 
 import pathlib
 
-VERSION = "v1"
+VERSION = "v2"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 W, H = 870, 58
@@ -32,7 +32,9 @@ LIGHT = {"cy": "#0891b2", "bl": "#2563eb", "pu": "#9333ea", "pk": "#db2777", "di
 # Each section gets its own run through the palette, so the page moves cyan to
 # pink as you scroll instead of repeating one gradient five times.
 SECTIONS = [
-    ("core-thesis",        "CORE THESIS",        ["cy", "bl"]),
+    # cyan -> blue is only ~25 degrees of hue and read as a single flat colour.
+    # Every run below spans at least ~55 degrees so the gradient is actually visible.
+    ("core-thesis",        "CORE THESIS",        ["cy", "pu"]),
     ("background",         "BACKGROUND",         ["bl", "pu"]),
     ("what-i-do",          "WHAT I DO",          ["cy", "bl", "pu", "pk"]),
     ("currently-building", "CURRENTLY BUILDING", ["pu", "pk"]),

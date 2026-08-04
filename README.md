@@ -16,31 +16,27 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v1.svg">
-  <img src="banners/core-thesis-dark-v1.svg" alt="Core Thesis" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v2.svg">
+  <img src="banners/core-thesis-dark-v2.svg" alt="Core Thesis" width="870" />
 </picture>
 
 > **Building digital experiences where technology fades and humanity deepens.**
 
----
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v1.svg">
-  <img src="banners/background-dark-v1.svg" alt="Background" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v2.svg">
+  <img src="banners/background-dark-v2.svg" alt="Background" width="870" />
 </picture>
 
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
 
 My focus is on systems that empower users, creators, and communities for deeper human connection and experiences: Open Source Artificial Intelligence, Human Machine Systems, Quantum Game Simulation, Decentralized Systems, and Topology aware generative 3D.
 
----
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v1.svg">
-  <img src="banners/what-i-do-dark-v1.svg" alt="What I Do" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v2.svg">
+  <img src="banners/what-i-do-dark-v2.svg" alt="What I Do" width="870" />
 </picture>
 
 ### 🧠 AI/ML
@@ -79,12 +75,10 @@ My focus is on systems that empower users, creators, and communities for deeper 
 - Narrative-driven viral content design
 - Building in public: technical storytelling and developer-facing content
 
----
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v1.svg">
-  <img src="banners/currently-building-dark-v1.svg" alt="Currently Building" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v2.svg">
+  <img src="banners/currently-building-dark-v2.svg" alt="Currently Building" width="870" />
 </picture>
 
 | Project | Focus |
@@ -97,12 +91,10 @@ My focus is on systems that empower users, creators, and communities for deeper 
 | 🌵 **DreamBay** | Multi-dementional digital asset platform |
 | 🏏 **Want3d** | Open-world survival shooter (UE5) |
 
----
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v1.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v1.svg">
-  <img src="banners/tech-stack-dark-v1.svg" alt="Tech Stack" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v2.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v2.svg">
+  <img src="banners/tech-stack-dark-v2.svg" alt="Tech Stack" width="870" />
 </picture>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
