@@ -24,7 +24,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v3"
+VERSION = "v4"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 QUOTE = "We are dreamers of dreams"
@@ -33,15 +33,17 @@ ATTRIB = "— Willy Wonka"
 # FS is capped by the one-line rule in main(); at 25 characters that cap is
 # ~52, so this is a choice rather than a constraint. Lengthen QUOTE and the
 # assert will tell you the new ceiling.
-W, H = 870, 96
-FS = 36
+# Matched to tools/banners.py -- same size, same advance width, same prompt
+# offset -- so the opening line reads as one more header, not a bigger thing.
+W, H = 870, 78
+FS = 26
 CW = FS * 0.62
 X = FS                      # text starts one glyph past the "$"
-Y = 46
+Y = 34
 
-AT_FS = 16
+AT_FS = 14
 AT_CW = AT_FS * 0.62
-AT_Y = 78
+AT_Y = 62
 
 TYPE_PER_CHAR = 0.06
 ERASE_PER_CHAR = 0.02
