@@ -39,7 +39,11 @@
   <img src="banners/background-dark-v5.svg" alt="Background" width="870" />
 </picture>
 
-Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/bg-cat-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/bg-cat-light-v1.svg">
+  <img src="banners/bg-cat-dark-v1.svg" alt="Product engineer turned AI &amp; computer vision nerd. I build cool shit, document it, &amp; help others do the same." width="870" />
+</picture>
 
 My focus is on systems that empower users, creators, and communities for deeper human connection and experiences: Open Source Artificial Intelligence, Human Machine Systems, Quantum Game Simulation, Decentralized Systems, and Topology aware generative 3D.
 
