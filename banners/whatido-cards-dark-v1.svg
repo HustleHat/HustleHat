@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="870" height="635" viewBox="0 0 870 635" role="img" aria-label="AI/ML: Multi-agent orchestration and autonomous agent systems, Building language models with a focus on training efficiency over raw scale, Fine-tuning and developing Diffusion Models for creative 3D asset pipelines, Python-based research and development for human–machine interaction and adaptive narrative systems | Game Development: Worldbuilding in Unreal Engine and Unity 6 LTS, 3D assets and environments with Blender, Gameplay systems, mission loops, and economy design, Procedural world generation and modular level design | Web Development: Next.js, React, Tailwind frontend, Node.js, GraphQL, PostgreSQL, Firebase backend, Web3 integrations with ThirdWeb, Solidity, IPFS, AI-native application architecture | Creative Tech: Motion graphics: Lottie, GSAP, Spline, AI-driven animation and narrative systems, Generative 3D pipelines: text-to-mesh, retopology, game-ready output, Design systems and brand visual identity at product scale | Product Vision &amp; Strategy: First-principles product design, Creator economies, incentive loops, UX architecture, 0-to-1 product specs, build docs, and technical roadmaps, Pricing, monetization modeling, and unit economics | Community, Content &amp; Launch: Brand building across social media, Full-funnel digital product launch strategies, Narrative-driven viral content design, Building in public: technical storytelling and developer-facing content">
+  <title>What I Do</title>
+  <g transform="translate(0.0,0)">
+    <rect width="427.0" height="201" rx="7" fill="#22d3ee" fill-opacity="0.05" stroke="#22d3ee" stroke-opacity="0.3"/>
+    <text x="15" y="26" font-family='"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",ui-monospace,Menlo,monospace' font-size="14">🧠</text>
+    <text x="37" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#22d3ee">AI/ML</text>
+    <rect x="15" y="36" width="397.0" height="1" fill="#21262d"/>
+    <text x="15" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#22d3ee">&#183;</text>
+    <text x="27" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Multi-agent orchestration and <tspan font-weight="700">autonomous agent systems</tspan></text>
+    <text x="15" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#22d3ee">&#183;</text>
+    <text x="27" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Building <tspan font-weight="700">language models</tspan> with a focus on <tspan font-weight="700">training</tspan></text>
+    <text x="27" y="91" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff"><tspan font-weight="700">efficiency over raw scale</tspan></text>
+    <text x="15" y="112" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#22d3ee">&#183;</text>
+    <text x="27" y="112" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Fine-tuning and developing <tspan font-weight="700">Diffusion Models</tspan> for creative</text>
+    <text x="27" y="128" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">3D asset pipelines</text>
+    <text x="15" y="149" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#22d3ee">&#183;</text>
+    <text x="27" y="149" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Python-based research and development for <tspan font-weight="700">human–machine</tspan></text>
+    <text x="27" y="165" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff"><tspan font-weight="700">interaction</tspan> and <tspan font-weight="700">adaptive narrative systems</tspan></text>
+  </g>
+  <g transform="translate(443.0,0)">
+    <rect width="427.0" height="201" rx="7" fill="#42b8f8" fill-opacity="0.05" stroke="#42b8f8" stroke-opacity="0.3"/>
+    <text x="15" y="26" font-family='"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",ui-monospace,Menlo,monospace' font-size="14">🎮</text>
+    <text x="37" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#42b8f8">Game Development</text>
+    <rect x="15" y="36" width="397.0" height="1" fill="#21262d"/>
+    <text x="15" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#42b8f8">&#183;</text>
+    <text x="27" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Worldbuilding in <tspan font-weight="700">Unreal Engine</tspan> and <tspan font-weight="700">Unity 6 LTS</tspan></text>
+    <text x="15" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#42b8f8">&#183;</text>
+    <text x="27" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">3D assets and environments with <tspan font-weight="700">Blender</tspan></text>
+    <text x="15" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#42b8f8">&#183;</text>
+    <text x="27" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Gameplay systems, mission loops, and economy design</text>
+    <text x="15" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#42b8f8">&#183;</text>
+    <text x="27" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Procedural world generation and <tspan font-weight="700">modular level design</tspan></text>
+  </g>
+  <g transform="translate(0.0,217)">
+    <rect width="427.0" height="201" rx="7" fill="#6896fd" fill-opacity="0.05" stroke="#6896fd" stroke-opacity="0.3"/>
+    <text x="15" y="26" font-family='"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",ui-monospace,Menlo,monospace' font-size="14">💻</text>
+    <text x="37" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#6896fd">Web Development</text>
+    <rect x="15" y="36" width="397.0" height="1" fill="#21262d"/>
+    <text x="15" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6896fd">&#183;</text>
+    <text x="27" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff"><tspan font-weight="700">Next.js</tspan>, <tspan font-weight="700">React</tspan>, <tspan font-weight="700">Tailwind</tspan> frontend</text>
+    <text x="15" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6896fd">&#183;</text>
+    <text x="27" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff"><tspan font-weight="700">Node.js</tspan>, <tspan font-weight="700">GraphQL</tspan>, <tspan font-weight="700">PostgreSQL</tspan>, <tspan font-weight="700">Firebase</tspan> backend</text>
+    <text x="15" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6896fd">&#183;</text>
+    <text x="27" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Web3 integrations with <tspan font-weight="700">ThirdWeb</tspan>, <tspan font-weight="700">Solidity</tspan>, <tspan font-weight="700">IPFS</tspan></text>
+    <text x="15" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#6896fd">&#183;</text>
+    <text x="27" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">AI-native application architecture</text>
+  </g>
+  <g transform="translate(443.0,217)">
+    <rect width="427.0" height="201" rx="7" fill="#9865f9" fill-opacity="0.05" stroke="#9865f9" stroke-opacity="0.3"/>
+    <text x="15" y="26" font-family='"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",ui-monospace,Menlo,monospace' font-size="14">🌀</text>
+    <text x="37" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#9865f9">Creative Tech</text>
+    <rect x="15" y="36" width="397.0" height="1" fill="#21262d"/>
+    <text x="15" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9865f9">&#183;</text>
+    <text x="27" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Motion graphics: <tspan font-weight="700">Lottie</tspan>, <tspan font-weight="700">GSAP</tspan>, <tspan font-weight="700">Spline</tspan></text>
+    <text x="15" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9865f9">&#183;</text>
+    <text x="27" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">AI-driven animation and narrative systems</text>
+    <text x="15" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9865f9">&#183;</text>
+    <text x="27" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Generative 3D pipelines: <tspan font-weight="700">text-to-mesh</tspan>, retopology,</text>
+    <text x="27" y="112" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">game-ready output</text>
+    <text x="15" y="133" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#9865f9">&#183;</text>
+    <text x="27" y="133" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Design systems and <tspan font-weight="700">brand visual identity</tspan> at product scale</text>
+  </g>
+  <g transform="translate(0.0,434)">
+    <rect width="427.0" height="201" rx="7" fill="#c661dd" fill-opacity="0.05" stroke="#c661dd" stroke-opacity="0.3"/>
+    <text x="15" y="26" font-family='"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",ui-monospace,Menlo,monospace' font-size="14">🔮</text>
+    <text x="37" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#c661dd">Product Vision &amp; Strategy</text>
+    <rect x="15" y="36" width="397.0" height="1" fill="#21262d"/>
+    <text x="15" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c661dd">&#183;</text>
+    <text x="27" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">First-principles product design</text>
+    <text x="15" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c661dd">&#183;</text>
+    <text x="27" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Creator economies, incentive loops, UX architecture</text>
+    <text x="15" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c661dd">&#183;</text>
+    <text x="27" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">0-to-1 product specs, build docs, and technical roadmaps</text>
+    <text x="15" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#c661dd">&#183;</text>
+    <text x="27" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Pricing, monetization modeling, and unit economics</text>
+  </g>
+  <g transform="translate(443.0,434)">
+    <rect width="427.0" height="201" rx="7" fill="#f472b6" fill-opacity="0.05" stroke="#f472b6" stroke-opacity="0.3"/>
+    <text x="15" y="26" font-family='"Apple Color Emoji","Segoe UI Emoji","Noto Color Emoji",ui-monospace,Menlo,monospace' font-size="14">👥</text>
+    <text x="37" y="26" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" font-weight="700" fill="#f472b6">Community, Content &amp; Launch</text>
+    <rect x="15" y="36" width="397.0" height="1" fill="#21262d"/>
+    <text x="15" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#f472b6">&#183;</text>
+    <text x="27" y="54" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Brand building across social media</text>
+    <text x="15" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#f472b6">&#183;</text>
+    <text x="27" y="75" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Full-funnel digital product launch strategies</text>
+    <text x="15" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#f472b6">&#183;</text>
+    <text x="27" y="96" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Narrative-driven viral content design</text>
+    <text x="15" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#f472b6">&#183;</text>
+    <text x="27" y="117" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">Building in public: technical storytelling and</text>
+    <text x="27" y="133" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="11" fill="#ffffff">developer-facing content</text>
+  </g>
+</svg>
