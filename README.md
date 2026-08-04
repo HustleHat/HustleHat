@@ -1,4 +1,8 @@
-# Christopher M. Noble
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/nameplate-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/nameplate-light-v1.svg">
+  <img src="banners/nameplate-dark-v1.svg" alt="Christopher M. Noble" width="870" />
+</picture>
 
 <img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
 
