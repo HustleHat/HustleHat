@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="870" height="52" viewBox="0 0 870 52" role="img" aria-label="We are dreamers of dreams — Willy Wonka">
   <title>We are dreamers of dreams — Willy Wonka</title>
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#22d3ee"/><stop offset="0.3333" stop-color="#58a6ff"/><stop offset="0.6667" stop-color="#a855f7"/><stop offset="1" stop-color="#f472b6"/></linearGradient>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#0891b2"/><stop offset="0.3333" stop-color="#2563eb"/><stop offset="0.6667" stop-color="#9333ea"/><stop offset="1" stop-color="#db2777"/></linearGradient>
     <mask id="reveal">
       <rect x="26" y="0" width="0" height="52" fill="#fff">
         <animate attributeName="width" values="403.0;403.0;403.0;386.9;370.8;354.6;338.5;322.4;306.3;290.2;274.0;257.9;241.8;225.7;209.6;193.4;177.3;161.2;145.1;129.0;112.8;96.7;80.6;64.5;48.4;32.2;16.1;0.0;0.0;0.0;16.1;32.2;48.4;64.5;80.6;96.7;112.8;129.0;145.1;161.2;177.3;193.4;209.6;225.7;241.8;257.9;274.0;290.2;306.3;322.4;338.5;354.6;370.8;386.9;403.0" keyTimes="0.00000;0.64935;0.64935;0.65195;0.65455;0.65714;0.65974;0.66234;0.66494;0.66753;0.67013;0.67273;0.67532;0.67792;0.68052;0.68312;0.68571;0.68831;0.69091;0.69351;0.69610;0.69870;0.70130;0.70390;0.70649;0.70909;0.71169;0.71429;0.80519;0.80519;0.81299;0.82078;0.82857;0.83636;0.84416;0.85195;0.85974;0.86753;0.87532;0.88312;0.89091;0.89870;0.90649;0.91429;0.92208;0.92987;0.93766;0.94545;0.95325;0.96104;0.96883;0.97662;0.98442;0.99221;1.00000" dur="7.70s" calcMode="discrete" repeatCount="indefinite"/>
@@ -9,11 +9,11 @@
     </mask>
   </defs>
   <text x="0" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" fill="url(#g)">$</text>
-  <text x="26" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#ffffff" mask="url(#reveal)" textLength="403.0" lengthAdjust="spacingAndGlyphs">We are dreamers of dreams</text>
-  <text x="455.0" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" font-weight="700" fill="url(#g)" textLength="112.8" lengthAdjust="spacingAndGlyphs">— Willy Wonka
+  <text x="26" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="#1f2328" mask="url(#reveal)" textLength="403.0" lengthAdjust="spacingAndGlyphs">We are dreamers of dreams</text>
+  <text x="455.0" y="34" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="26" font-weight="700" fill="url(#g)" textLength="209.6" lengthAdjust="spacingAndGlyphs">— Willy Wonka
     <animate attributeName="opacity" values="1;1;1;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;0;1" keyTimes="0.00000;0.64935;0.64935;0.65195;0.65455;0.65714;0.65974;0.66234;0.66494;0.66753;0.67013;0.67273;0.67532;0.67792;0.68052;0.68312;0.68571;0.68831;0.69091;0.69351;0.69610;0.69870;0.70130;0.70390;0.70649;0.70909;0.71169;0.71429;0.80519;0.80519;0.81299;0.82078;0.82857;0.83636;0.84416;0.85195;0.85974;0.86753;0.87532;0.88312;0.89091;0.89870;0.90649;0.91429;0.92208;0.92987;0.93766;0.94545;0.95325;0.96104;0.96883;0.97662;0.98442;0.99221;1.00000" dur="7.70s" calcMode="discrete" repeatCount="indefinite"/>
   </text>
-  <rect y="13" width="3" height="26" fill="#58a6ff">
+  <rect y="13" width="3" height="26" fill="#2563eb">
     <animate attributeName="x" values="429.0;429.0;429.0;412.9;396.8;380.6;364.5;348.4;332.3;316.2;300.0;283.9;267.8;251.7;235.6;219.4;203.3;187.2;171.1;155.0;138.8;122.7;106.6;90.5;74.4;58.2;42.1;26.0;26.0;26.0;42.1;58.2;74.4;90.5;106.6;122.7;138.8;155.0;171.1;187.2;203.3;219.4;235.6;251.7;267.8;283.9;300.0;316.2;332.3;348.4;364.5;380.6;396.8;412.9;429.0" keyTimes="0.00000;0.64935;0.64935;0.65195;0.65455;0.65714;0.65974;0.66234;0.66494;0.66753;0.67013;0.67273;0.67532;0.67792;0.68052;0.68312;0.68571;0.68831;0.69091;0.69351;0.69610;0.69870;0.70130;0.70390;0.70649;0.70909;0.71169;0.71429;0.80519;0.80519;0.81299;0.82078;0.82857;0.83636;0.84416;0.85195;0.85974;0.86753;0.87532;0.88312;0.89091;0.89870;0.90649;0.91429;0.92208;0.92987;0.93766;0.94545;0.95325;0.96104;0.96883;0.97662;0.98442;0.99221;1.00000" dur="7.70s" calcMode="discrete" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.05s" repeatCount="indefinite"/>
   </rect>
