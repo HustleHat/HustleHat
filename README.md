@@ -15,13 +15,21 @@
   <img src="https://raw.githubusercontent.com/christophermnoble/christophermnoble/output/galaga-contribution-graph.svg" alt="galaga contribution graph" style="width:100%" />
 </picture>
 
-## Core Thesis
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v1.svg">
+  <img src="banners/core-thesis-dark-v1.svg" alt="Core Thesis" width="870" />
+</picture>
 
 > **Building digital experiences where technology fades and humanity deepens.**
 
 ---
 
-## Background
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v1.svg">
+  <img src="banners/background-dark-v1.svg" alt="Background" width="870" />
+</picture>
 
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
 
@@ -29,7 +37,11 @@ My focus is on systems that empower users, creators, and communities for deeper 
 
 ---
 
-## What I Do
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v1.svg">
+  <img src="banners/what-i-do-dark-v1.svg" alt="What I Do" width="870" />
+</picture>
 
 ### 🧠 AI/ML
 - Multi-agent orchestration and **autonomous agent systems**
@@ -69,7 +81,11 @@ My focus is on systems that empower users, creators, and communities for deeper 
 
 ---
 
-## Currently Building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v1.svg">
+  <img src="banners/currently-building-dark-v1.svg" alt="Currently Building" width="870" />
+</picture>
 
 | Project | Focus |
 |:--------|:------|
@@ -83,7 +99,11 @@ My focus is on systems that empower users, creators, and communities for deeper 
 
 ---
 
-## Tech Stack
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v1.svg">
+  <img src="banners/tech-stack-dark-v1.svg" alt="Tech Stack" width="870" />
+</picture>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
