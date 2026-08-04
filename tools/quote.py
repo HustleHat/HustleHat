@@ -25,7 +25,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v5"
+VERSION = "v7"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 QUOTE = "We are dreamers of dreams"
@@ -45,7 +45,7 @@ Y = 34
 AT_FS = 14
 AT_CW = AT_FS * 0.62
 AT_Y = 34                   # same baseline as the quote -- it sits alongside
-AT_GAP = 26                 # clearance past the cursor
+AT_GAP = 14                 # clearance past the cursor
 
 TYPE_PER_CHAR = 0.06
 ERASE_PER_CHAR = 0.02
