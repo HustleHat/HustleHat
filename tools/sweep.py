@@ -19,7 +19,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v2"
+VERSION = "v3"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 TEXT = "Building digital experiences where technology fades and humanity deepens."
@@ -29,9 +29,13 @@ FS = 19
 CW = FS * 0.6
 BASE_Y = 30
 
-BAND = 280          # width of the glint
-CYCLE = 4.2         # seconds per pass, including the rest
-CROSS = 0.74        # fraction of the cycle the band is actually moving
+BAND = 240          # width of the glint
+CYCLE = 2.8         # seconds per pass
+# REST = 0 means the band restarts the instant it exits, with no dwell. Note the
+# glint is still off the text for roughly BAND/(W+BAND)*CYCLE while it travels
+# back in from the left -- narrowing BAND is the lever that shortens that, not
+# the cycle time.
+REST = 0.0          # extra seconds parked off-screen after each pass
 
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 DARK = {"stops": ["#22d3ee", "#58a6ff", "#a855f7", "#f472b6"],
@@ -42,6 +46,11 @@ LIGHT = {"stops": ["#0891b2", "#2563eb", "#9333ea", "#db2777"],
 
 def build(pal):
     tl = len(TEXT) * CW
+    total = CYCLE + REST
+    if REST > 0:
+        vals, kt = f"{-BAND};{W};{W}", f"0;{CYCLE/total:.4g};1"
+    else:
+        vals, kt = f"{-BAND};{W}", "0;1"
     stops = "".join(
         f'<stop offset="{i/(len(pal["stops"])-1):.4g}" stop-color="{c}"/>'
         for i, c in enumerate(pal["stops"])
@@ -60,8 +69,8 @@ viewBox="0 0 {W} {H}" role="img" aria-label="{escape(TEXT)}">
     </linearGradient>
     <mask id="m">
       <rect y="0" width="{BAND}" height="{H}" fill="url(#win)">
-        <animate attributeName="x" values="{-BAND};{W};{W}" \
-keyTimes="0;{CROSS};1" dur="{CYCLE}s" repeatCount="indefinite"/>
+        <animate attributeName="x" values="{vals}" keyTimes="{kt}" \
+dur="{total:.2f}s" repeatCount="indefinite"/>
       </rect>
     </mask>
   </defs>
@@ -80,8 +89,9 @@ def main():
         p = OUT / f"thesis-sweep-{theme}-{VERSION}.svg"
         p.write_text(build(pal), encoding="utf-8")
         print(f"wrote {p.name}")
-    print(f"line {end:.0f}px of {W}px  ·  glint crosses in "
-          f"{CYCLE*CROSS:.1f}s, rests {CYCLE*(1-CROSS):.1f}s")
+    off_text = BAND / (W + BAND) * CYCLE
+    print(f"line {end:.0f}px of {W}px  ·  pass every {CYCLE + REST:.1f}s  ·  "
+          f"rest {REST:.1f}s  ·  ~{off_text:.1f}s off the text between passes")
 
 
 if __name__ == "__main__":
