@@ -24,6 +24,12 @@
 > **Building digital experiences where technology fades and humanity deepens.**
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/wave-light-v1.svg">
+  <img src="banners/wave-dark-v1.svg" alt="" width="870" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v2.svg">
   <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v2.svg">
   <img src="banners/background-dark-v2.svg" alt="Background" width="870" />
@@ -32,6 +38,12 @@
 Product engineer turned AI & computer vision nerd. I build cool shit, document it, & help others do the same.
 
 My focus is on systems that empower users, creators, and communities for deeper human connection and experiences: Open Source Artificial Intelligence, Human Machine Systems, Quantum Game Simulation, Decentralized Systems, and Topology aware generative 3D.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/wave-light-v1.svg">
+  <img src="banners/wave-dark-v1.svg" alt="" width="870" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v2.svg">
@@ -76,6 +88,12 @@ My focus is on systems that empower users, creators, and communities for deeper 
 - Building in public: technical storytelling and developer-facing content
 
 <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/wave-light-v1.svg">
+  <img src="banners/wave-dark-v1.svg" alt="" width="870" />
+</picture>
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v2.svg">
   <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v2.svg">
   <img src="banners/currently-building-dark-v2.svg" alt="Currently Building" width="870" />
@@ -85,6 +103,12 @@ My focus is on systems that empower users, creators, and communities for deeper 
   <source media="(prefers-color-scheme: dark)" srcset="banners/building-board-dark-v1.svg">
   <source media="(prefers-color-scheme: light)" srcset="banners/building-board-light-v1.svg">
   <img src="banners/building-board-dark-v1.svg" alt="Currently building: Noble, I.R.O.N., SignalHunt, ProspectIQ, Skulpty, DreamBay, Want3d" width="870" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/wave-light-v1.svg">
+  <img src="banners/wave-dark-v1.svg" alt="" width="870" />
 </picture>
 
 <picture>
