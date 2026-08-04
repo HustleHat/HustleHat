@@ -19,17 +19,20 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v1"
+VERSION = "v2"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 NAME = "Christopher M. Noble"
 
-W, H = 870, 60
-FS = 36
-CW = FS * 0.6
-BASE_Y = 42
+# Matched to tools/banners.py exactly -- same size, same advance width, same
+# prompt offset -- so the name reads as one more line in the same terminal
+# rather than a bigger, separate thing.
+W, H = 870, 52
+FS = 26
+CW = FS * 0.62
+BASE_Y = 34
 X_PROMPT = 0
-X_NAME = FS + 10          # room for the "$" plus a space
+X_NAME = FS              # same offset the section banners use
 
 TYPE_PER_CHAR = 0.075
 ERASE_PER_CHAR = 0.025
@@ -90,7 +93,7 @@ fill="url(#g)">$</text>
   <text x="{X_NAME}" y="{BASE_Y}" font-family="{MONO}" font-size="{FS}" \
 font-weight="700" fill="{pal['ink']}" mask="url(#reveal)" \
 textLength="{tl:.1f}" lengthAdjust="spacingAndGlyphs">{escape(NAME)}</text>
-  <rect y="{BASE_Y - FS + 6}" width="3.5" height="{FS}" fill="{pal['cursor']}">
+  <rect y="{BASE_Y - FS + 5}" width="3" height="{FS}" fill="{pal['cursor']}">
     <animate attributeName="x" values="{c_vals}" keyTimes="{keytimes}" \
 dur="{total:.2f}s" calcMode="discrete" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" \
