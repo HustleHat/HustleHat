@@ -55,41 +55,41 @@ My focus is on systems that empower users, creators, and communities for deeper 
   <img src="banners/what-i-do-dark-v2.svg" alt="What I Do" width="870" />
 </picture>
 
-### 🧠 AI/ML
-- Multi-agent orchestration and **autonomous agent systems**
-- Building **language models** with a focus on **training efficiency over raw scale**
-- Fine-tuning and developing **Diffusion Models** for creative 3D asset pipelines
-- Python-based research and development for **human–machine interaction** and **adaptive narrative systems**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-ai-ml-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-ai-ml-light-v1.svg">
+  <img src="banners/pills-ai-ml-dark-v1.svg" alt="AI/ML: Multi-agent orchestration and autonomous agent systems, Building language models with a focus on training efficiency over raw scale, Fine-tuning and developing Diffusion Models for creative 3D asset pipelines, Python-based research and development for human–machine interaction and adaptive narrative systems" width="870" />
+</picture>
 
-### 🎮 Game Development
-- Worldbuilding in **Unreal Engine** and **Unity 6 LTS**
-- 3D assets and environments with **Blender**
-- Gameplay systems, mission loops, and economy design
-- Procedural world generation and **modular level design**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-game-development-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-game-development-light-v1.svg">
+  <img src="banners/pills-game-development-dark-v1.svg" alt="Game Development: Worldbuilding in Unreal Engine and Unity 6 LTS, 3D assets and environments with Blender, Gameplay systems, mission loops, and economy design, Procedural world generation and modular level design" width="870" />
+</picture>
 
-### 💻 Web Development
-- **Next.js**, **React**, **Tailwind** frontend
-- **Node.js**, **GraphQL**, **PostgreSQL**, **Firebase** backend
-- Web3 integrations with **ThirdWeb**, **Solidity**, **IPFS**
-- AI-native application architecture
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-web-development-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-web-development-light-v1.svg">
+  <img src="banners/pills-web-development-dark-v1.svg" alt="Web Development: Next.js, React, Tailwind frontend, Node.js, GraphQL, PostgreSQL, Firebase backend, Web3 integrations with ThirdWeb, Solidity, IPFS, AI-native application architecture" width="870" />
+</picture>
 
-### 🌀 Creative Tech
-- Motion graphics: **Lottie**, **GSAP**, **Spline**
-- AI-driven animation and narrative systems
-- Generative 3D pipelines: **text-to-mesh**, retopology, game-ready output
-- Design systems and **brand visual identity** at product scale
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-creative-tech-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-creative-tech-light-v1.svg">
+  <img src="banners/pills-creative-tech-dark-v1.svg" alt="Creative Tech: Motion graphics: Lottie, GSAP, Spline, AI-driven animation and narrative systems, Generative 3D pipelines: text-to-mesh, retopology, game-ready output, Design systems and brand visual identity at product scale" width="870" />
+</picture>
 
-### 🔮 Product Vision & Strategy
-- First-principles product design
-- Creator economies, incentive loops, UX architecture
-- 0-to-1 product specs, build docs, and technical roadmaps
-- Pricing, monetization modeling, and unit economics
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-product-vision-strategy-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-product-vision-strategy-light-v1.svg">
+  <img src="banners/pills-product-vision-strategy-dark-v1.svg" alt="Product Vision & Strategy: First-principles product design, Creator economies, incentive loops, UX architecture, 0-to-1 product specs, build docs, and technical roadmaps, Pricing, monetization modeling, and unit economics" width="870" />
+</picture>
 
-### 👥 Community, Content & Launch
-- Brand building across social media
-- Full-funnel digital product launch strategies
-- Narrative-driven viral content design
-- Building in public: technical storytelling and developer-facing content
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/pills-community-content-launch-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/pills-community-content-launch-light-v1.svg">
+  <img src="banners/pills-community-content-launch-dark-v1.svg" alt="Community, Content & Launch: Brand building across social media, Full-funnel digital product launch strategies, Narrative-driven viral content design, Building in public: technical storytelling and developer-facing content" width="870" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
