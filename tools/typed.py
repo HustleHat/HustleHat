@@ -18,7 +18,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v1"
+VERSION = "v2"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 TEXT = "Building digital experiences where technology fades and humanity deepens."
@@ -41,23 +41,29 @@ LIGHT = {"stops": ["#0891b2", "#2563eb", "#9333ea", "#db2777"], "cursor": "#2563
 
 
 def timeline():
-    """(width_values, cursor_x_values, keyTimes, total_seconds) for one loop."""
+    """(width_values, cursor_x_values, keyTimes, total_seconds) for one loop.
+
+    The loop deliberately STARTS fully typed and ends fully typed. Anything that
+    renders the SVG without running SMIL -- a backgrounded tab at load, a static
+    rasteriser, reduced-motion -- freezes at t=0 and must still show the whole
+    sentence. Starting empty made the thesis render as a bare cursor.
+    """
     n = len(TEXT)
     t_type, t_erase = n * TYPE_PER_CHAR, n * ERASE_PER_CHAR
-    total = t_type + HOLD + t_erase + GAP
+    total = HOLD + t_erase + GAP + t_type
 
-    marks, widths = [], []
+    marks, widths = [0.0], [n]                  # t=0: the whole sentence
 
-    for k in range(n + 1):                      # typing
-        marks.append(k * TYPE_PER_CHAR)
-        widths.append(k)
-    marks.append(t_type + HOLD)                 # hold at full
+    marks.append(HOLD)                          # hold it there
     widths.append(n)
-    for k in range(n, -1, -1):                  # erasing
-        marks.append(t_type + HOLD + (n - k) * ERASE_PER_CHAR)
+    for k in range(n, -1, -1):                  # erase
+        marks.append(HOLD + (n - k) * ERASE_PER_CHAR)
         widths.append(k)
-    marks.append(total)                         # empty gap before the loop
+    marks.append(HOLD + t_erase + GAP)          # empty beat
     widths.append(0)
+    for k in range(n + 1):                      # retype, landing back on full
+        marks.append(HOLD + t_erase + GAP + k * TYPE_PER_CHAR)
+        widths.append(k)
 
     keytimes = [f"{m/total:.5f}" for m in marks]
     w_vals = ";".join(f"{k*CW:.1f}" for k in widths)
