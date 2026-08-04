@@ -15,7 +15,7 @@ editing a file in place shows stale artwork indefinitely.
 
 import pathlib
 
-VERSION = "v5"
+VERSION = "v6"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 W, H = 870, 58
@@ -24,6 +24,14 @@ CW = FS * 0.62          # mono advance width
 BASE_Y = 30             # title baseline
 RULE_Y = 44
 LEAD = 120              # bright leading segment of the rule
+
+# Typing, matched to tools/nameplate.py. Each title types at the same per-char
+# rate, so loops differ in length by title -- they drift out of sync on purpose.
+# In sync they read as a page-wide blink; staggered they read as a live terminal.
+TYPE_PER_CHAR = 0.075
+ERASE_PER_CHAR = 0.025
+HOLD = 5.0
+GAP = 0.7
 
 # Saturated on #0d1117; darkened for contrast on white. Same hues either way.
 DARK = {"cy": "#22d3ee", "bl": "#58a6ff", "pu": "#a855f7", "pk": "#f472b6",
@@ -56,17 +64,56 @@ def gradient(gid, stops, pal):
     return f'<linearGradient id="{gid}" x1="0" y1="0" x2="1" y2="0">{body}</linearGradient>'
 
 
+def timeline(title):
+    """Loop STARTS and ENDS fully typed -- a frozen render must still read."""
+    n = len(title)
+    t_type, t_erase = n * TYPE_PER_CHAR, n * ERASE_PER_CHAR
+    total = HOLD + t_erase + GAP + t_type
+
+    marks, widths = [0.0], [n]
+    marks.append(HOLD)
+    widths.append(n)
+    for k in range(n, -1, -1):
+        marks.append(HOLD + (n - k) * ERASE_PER_CHAR)
+        widths.append(k)
+    marks.append(HOLD + t_erase + GAP)
+    widths.append(0)
+    for k in range(n + 1):
+        marks.append(HOLD + t_erase + GAP + k * TYPE_PER_CHAR)
+        widths.append(k)
+
+    return (";".join(f"{k*CW:.1f}" for k in widths),
+            ";".join(f"{FS + k*CW:.1f}" for k in widths),
+            ";".join(f"{m/total:.5f}" for m in marks),
+            total)
+
+
 def banner(title, stops, pal):
     tl = len(title) * CW
+    w_vals, c_vals, keytimes, total = timeline(title)
     return f"""<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" \
 viewBox="0 0 {W} {H}" role="img" aria-label="{title.title()}">
   <title>{title.title()}</title>
-  <defs>{gradient("g", stops, pal)}</defs>
+  <defs>
+    {gradient("g", stops, pal)}
+    <mask id="reveal">
+      <rect x="{FS}" y="0" width="0" height="{H}" fill="#fff">
+        <animate attributeName="width" values="{w_vals}" keyTimes="{keytimes}" \
+dur="{total:.2f}s" calcMode="discrete" repeatCount="indefinite"/>
+      </rect>
+    </mask>
+  </defs>
   <text x="0" y="{BASE_Y}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" \
 font-size="{FS}" fill="url(#g)">$</text>
   <text x="{FS}" y="{BASE_Y}" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" \
-font-size="{FS}" font-weight="700" fill="{pal['ink']}" \
+font-size="{FS}" font-weight="700" fill="{pal['ink']}" mask="url(#reveal)" \
 textLength="{tl:.1f}" lengthAdjust="spacingAndGlyphs">{title}</text>
+  <rect y="{BASE_Y - FS + 5}" width="3" height="{FS}" fill="{pal[stops[0]]}">
+    <animate attributeName="x" values="{c_vals}" keyTimes="{keytimes}" \
+dur="{total:.2f}s" calcMode="discrete" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" \
+dur="1.05s" repeatCount="indefinite"/>
+  </rect>
   <rect x="0" y="{RULE_Y}" width="{W}" height="2" rx="1" fill="url(#g)" opacity="0.45"/>
   <rect x="0" y="{RULE_Y}" width="{LEAD}" height="2" rx="1" fill="{pal[stops[0]]}"/>
 </svg>

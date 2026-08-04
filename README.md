@@ -4,7 +4,7 @@
   <img src="banners/nameplate-dark-v2.svg" alt="Christopher M. Noble" width="870" />
 </picture>
 
-<img src="https://github.com/user-attachments/assets/1dfc4b11-1b16-44cb-9581-e3c6362bbd8e" style="width:100%" />
+<img src="banners/banner-vision-v1.svg" alt="Twin lighthouses at dusk under a crescent moon, with object-detection boxes labelling two lighthouses, the moon, and a structure" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="noblefetch-dark-v20.svg">
@@ -20,9 +20,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v5.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v5.svg">
-  <img src="banners/core-thesis-dark-v5.svg" alt="Core Thesis" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/core-thesis-dark-v6.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/core-thesis-light-v6.svg">
+  <img src="banners/core-thesis-dark-v6.svg" alt="Core Thesis" width="870" />
 </picture>
 
 <picture>
@@ -38,9 +38,9 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v5.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v5.svg">
-  <img src="banners/background-dark-v5.svg" alt="Background" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/background-dark-v6.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/background-light-v6.svg">
+  <img src="banners/background-dark-v6.svg" alt="Background" width="870" />
 </picture>
 
 <picture>
@@ -58,9 +58,9 @@ My focus is on systems that empower users, creators, and communities for deeper 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v5.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v5.svg">
-  <img src="banners/what-i-do-dark-v5.svg" alt="What I Do" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/what-i-do-dark-v6.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/what-i-do-light-v6.svg">
+  <img src="banners/what-i-do-dark-v6.svg" alt="What I Do" width="870" />
 </picture>
 
 <picture>
@@ -76,9 +76,9 @@ My focus is on systems that empower users, creators, and communities for deeper 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v5.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v5.svg">
-  <img src="banners/currently-building-dark-v5.svg" alt="Currently Building" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/currently-building-dark-v6.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/currently-building-light-v6.svg">
+  <img src="banners/currently-building-dark-v6.svg" alt="Currently Building" width="870" />
 </picture>
 
 <picture>
@@ -94,9 +94,9 @@ My focus is on systems that empower users, creators, and communities for deeper 
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v5.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v5.svg">
-  <img src="banners/tech-stack-dark-v5.svg" alt="Tech Stack" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v6.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/tech-stack-light-v6.svg">
+  <img src="banners/tech-stack-dark-v6.svg" alt="Tech Stack" width="870" />
 </picture>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
