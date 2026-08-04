@@ -1,4 +1,4 @@
-name: generate pacman contribution graph
+name: generate arcade contribution graph
 
 on:
   schedule:
@@ -21,7 +21,7 @@ jobs:
         uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: ${{ github.repository_owner }}
-          games: 'pacman'
+          games: 'galaga'
           hide_month_labels: 'false'
 
       - name: push svgs to the output branch
