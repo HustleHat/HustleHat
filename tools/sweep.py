@@ -19,7 +19,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v1"
+VERSION = "v2"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 TEXT = "Building digital experiences where technology fades and humanity deepens."
@@ -30,8 +30,8 @@ CW = FS * 0.6
 BASE_Y = 30
 
 BAND = 280          # width of the glint
-CYCLE = 7.0         # seconds per pass, including the rest
-CROSS = 0.45        # fraction of the cycle the band is actually moving
+CYCLE = 4.2         # seconds per pass, including the rest
+CROSS = 0.74        # fraction of the cycle the band is actually moving
 
 MONO = "ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
 DARK = {"stops": ["#22d3ee", "#58a6ff", "#a855f7", "#f472b6"],
