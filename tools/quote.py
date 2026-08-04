@@ -24,21 +24,24 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v2"
+VERSION = "v3"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
-QUOTE = "A little nonsense, now and then, is relished by the wisest men"
+QUOTE = "We are dreamers of dreams"
 ATTRIB = "— Willy Wonka"
 
-W, H = 870, 76
-FS = 21.5                   # capped by the one-line rule, see main()
+# FS is capped by the one-line rule in main(); at 25 characters that cap is
+# ~52, so this is a choice rather than a constraint. Lengthen QUOTE and the
+# assert will tell you the new ceiling.
+W, H = 870, 96
+FS = 36
 CW = FS * 0.62
 X = FS                      # text starts one glyph past the "$"
-Y = 32
+Y = 46
 
-AT_FS = 13
+AT_FS = 16
 AT_CW = AT_FS * 0.62
-AT_Y = 60
+AT_Y = 78
 
 TYPE_PER_CHAR = 0.06
 ERASE_PER_CHAR = 0.02
@@ -101,7 +104,7 @@ dur="{total:.2f}s" calcMode="discrete" repeatCount="indefinite"/>
 fill="{pal['ink']}" mask="url(#reveal)" textLength="{N*CW:.1f}" \
 lengthAdjust="spacingAndGlyphs">{escape(QUOTE)}</text>
   <text x="{at_x:.1f}" y="{AT_Y}" font-family="{MONO}" font-size="{AT_FS}" \
-fill="{pal['dim']}" textLength="{len(ATTRIB)*AT_CW:.1f}" \
+font-weight="700" fill="url(#g)" textLength="{len(ATTRIB)*AT_CW:.1f}" \
 lengthAdjust="spacingAndGlyphs">{escape(ATTRIB)}
     <animate attributeName="opacity" values="{at_vals}" keyTimes="{kt}" \
 dur="{total:.2f}s" calcMode="discrete" repeatCount="indefinite"/>
