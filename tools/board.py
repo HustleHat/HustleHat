@@ -15,7 +15,7 @@ Bump VERSION on any visual change -- camo caches these hard.
 import pathlib
 from xml.sax.saxutils import escape
 
-VERSION = "v1"
+VERSION = "v2"
 OUT = pathlib.Path(__file__).resolve().parent.parent / "banners"
 
 W = 870
@@ -48,11 +48,11 @@ LIGHT = {"cy": "#0891b2", "bl": "#2563eb", "pu": "#9333ea", "pk": "#db2777",
 
 # Text is verbatim from the README table. Stages are Chris's call -- see notes.
 PROJECTS = [
-    ("\U0001F9E0", "Noble",      "Open-source language model, built from scratch", "ALPHA"),
+    ("\U0001F9E0", "Noble",      "Open-source language model, built from scratch", "PROTOTYPE"),
     ("⚙️", "I.R.O.N.",  "Autonomous multi-agent operations OS",           "ALPHA"),
     ("\U0001F4E1", "SignalHunt", "Market opportunity intelligence engine",         "PROTOTYPE"),
     ("\U0001F3AF", "ProspectIQ", "Automated prospect discovery and targeting",     "PROTOTYPE"),
-    ("\U0001F40D", "Skulpty",    "AI asset generation + agent framework",          "ALPHA"),
+    ("\U0001F40D", "Skulpty",    "AI asset generation + agent framework",          "BETA"),
     ("\U0001F335", "DreamBay",   "Multi-dementional digital asset platform",       "LIVE"),
     ("\U0001F3CF", "Want3d",     "Open-world survival shooter (UE5)",              "ALPHA"),
 ]
