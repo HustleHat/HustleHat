@@ -21,7 +21,11 @@
   <img src="banners/core-thesis-dark-v2.svg" alt="Core Thesis" width="870" />
 </picture>
 
-> **Building digital experiences where technology fades and humanity deepens.**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/thesis-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/thesis-light-v1.svg">
+  <img src="banners/thesis-dark-v1.svg" alt="Building digital experiences where technology fades and humanity deepens." width="870" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
