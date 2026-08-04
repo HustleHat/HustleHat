@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/quote-dark-v8.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/quote-light-v8.svg">
-  <img src="banners/quote-dark-v8.svg" alt="We are dreamers of dreams — Willy Wonka" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/intro-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/intro-light-v1.svg">
+  <img src="banners/intro-dark-v1.svg" alt="whoami" width="870" />
 </picture>
 
 <img src="banners/banner-vision-v1.svg" alt="Twin lighthouses at dusk under a crescent moon, with object-detection boxes labelling two lighthouses, the moon, and a structure" />
