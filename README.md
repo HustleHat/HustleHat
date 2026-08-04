@@ -81,15 +81,11 @@ My focus is on systems that empower users, creators, and communities for deeper 
   <img src="banners/currently-building-dark-v2.svg" alt="Currently Building" width="870" />
 </picture>
 
-| Project | Focus |
-|:--------|:------|
-| 🧠 **Noble** | Open-source language model, built from scratch |
-| ⚙️ **I.R.O.N.** | Autonomous multi-agent operations OS |
-| 📡 **SignalHunt** | Market opportunity intelligence engine |
-| 🎯 **ProspectIQ** | Automated prospect discovery and targeting |
-| 🐍 **Skulpty** | AI asset generation + agent framework |
-| 🌵 **DreamBay** | Multi-dementional digital asset platform |
-| 🏏 **Want3d** | Open-world survival shooter (UE5) |
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/building-board-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/building-board-light-v1.svg">
+  <img src="banners/building-board-dark-v1.svg" alt="Currently building: Noble, I.R.O.N., SignalHunt, ProspectIQ, Skulpty, DreamBay, Want3d" width="870" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/tech-stack-dark-v2.svg">
