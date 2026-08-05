@@ -49,7 +49,7 @@
   <img src="banners/bg-cat-dark-v1.svg" alt="Product engineer turned AI &amp; computer vision nerd. I build cool shit, document it, &amp; help others do the same." width="870" />
 </picture>
 
-My focus is on systems that empower users, creators, and communities for deeper human connection and experiences.
+My focus is on systems that empower users, creators, and communities through provenance, deeper human connection, and richer experiences.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
