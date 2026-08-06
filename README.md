@@ -64,9 +64,9 @@ My focus is on systems that empower users, creators, and communities through pro
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/whatido-cards-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/whatido-cards-light-v2.svg">
-  <img src="banners/whatido-cards-dark-v2.svg" alt="AI/ML: Multi-agent orchestration and autonomous agent systems, Building language models with a focus on training efficiency over raw scale, Fine-tuning and developing Diffusion Models for creative 3D asset pipelines, Python-based research and development for human–machine interaction and adaptive narrative systems | Game Development: Worldbuilding in Unreal Engine and Unity 6 LTS, 3D assets and environments with Blender, Gameplay systems, mission loops, and economy design, Procedural world generation and modular level design | Web Development: Next.js, React, Tailwind frontend, Node.js, GraphQL, PostgreSQL, Firebase backend, Web3 integrations with ThirdWeb, Solidity, IPFS, AI-native application architecture | Creative Tech: Motion graphics: Lottie, GSAP, Spline, AI-driven animation and narrative systems, Generative 3D pipelines: text-to-mesh, retopology, game-ready output, Design systems and brand visual identity at product scale" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/whatido-cards-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/whatido-cards-light-v3.svg">
+  <img src="banners/whatido-cards-dark-v3.svg" alt="AI/ML: Multi-agent orchestration and autonomous agent systems, Building language models with a focus on training efficiency over raw scale, Fine-tuning and developing Diffusion Models for creative 3D asset pipelines, Python-based research and development for human–machine interaction and adaptive narrative systems | Computer Vision: Detection & segmentation: YOLO, SAM, OpenCV, From-scratch inference in C, no frameworks, Edge deployment: Raspberry Pi, ARM, int8, CUDA, SIMD, and hand-written kernels | Game Development: Worldbuilding in Unreal Engine and Unity 6 LTS, 3D assets and environments with Blender, Gameplay systems, mission loops, and economy design, Procedural world generation and modular level design | Creative Tech: Motion graphics: Lottie, GSAP, Spline, AI-driven animation and narrative systems, Generative 3D pipelines: text-to-mesh, retopology, game-ready output, Design systems and brand visual identity at product scale" width="870" />
 </picture>
 
 <picture>
