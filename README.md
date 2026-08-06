@@ -49,7 +49,11 @@
   <img src="banners/bg-cat-dark-v2.svg" alt="▸ The best models shouldn't need a data center to run. ▸ I build in the open, document it, & help others do the same." width="870" />
 </picture>
 
-My focus is on systems that empower users, creators, and communities through provenance, deeper human connection, and richer experiences.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banners/focus-dark-v1.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/focus-light-v1.svg">
+  <img src="banners/focus-dark-v1.svg" alt="My focus is on systems that empower users, creators, and communities through provenance, deeper human connection, and richer experiences." width="870" />
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="banners/wave-dark-v1.svg">
