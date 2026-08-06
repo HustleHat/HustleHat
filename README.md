@@ -104,7 +104,7 @@
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/stack-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/stack-light-v2.svg">
-  <img src="banners/stack-dark-v2.svg" alt="LANGUAGES: C, C++, Python, Rust, TypeScript | AI / ML: PyTorch, HuggingFace, NumPy, Pandas, scikit-learn, Jupyter, CUDA, OpenCV, Ultralytics | LLM / AGENTS: LangChain, LangGraph, LlamaIndex, DSPy, Ollama, Anthropic, vLLM, Ray, MLflow, W&B, ONNX | WEB: React, Next.js, Tailwind, Node.js, FastAPI, GraphQL, Solidity, IPFS | DATA: PostgreSQL, Redis, Qdrant, Supabase, Firebase | INFRA: Docker, Kubernetes, AWS, Vercel, GitHub Actions, Linux, CMake, Conda | 3D / DESIGN: Unreal Engine, Unity, Blender, Figma" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/stack-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/stack-light-v3.svg">
+  <img src="banners/stack-dark-v3.svg" alt="LANGUAGES: C, C++, Python, Rust, TypeScript | AI / ML: PyTorch, HuggingFace, NumPy, Pandas, scikit-learn, Jupyter, CUDA, OpenCV, Ultralytics | LLM / AGENTS: LangChain, LangGraph, LlamaIndex, DSPy, Ollama, Anthropic, vLLM, Ray, MLflow, W&B, ONNX | WEB: React, Next.js, Tailwind, Node.js, FastAPI, GraphQL | DATA: PostgreSQL, Redis, Qdrant, Supabase, Firebase | INFRA: Docker, Kubernetes, AWS, Vercel, GitHub Actions, Linux, CMake, Conda | 3D / DESIGN: Unreal Engine, Unity, Blender, Figma" width="870" />
 </picture>
