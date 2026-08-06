@@ -82,9 +82,9 @@ My focus is on systems that empower users, creators, and communities through pro
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="banners/building-board-dark-v2.svg">
-  <source media="(prefers-color-scheme: light)" srcset="banners/building-board-light-v2.svg">
-  <img src="banners/building-board-dark-v2.svg" alt="Currently building: Noble, I.R.O.N., SignalHunt, ProspectIQ, Skulpty, DreamBay, Want3d" width="870" />
+  <source media="(prefers-color-scheme: dark)" srcset="banners/building-board-dark-v3.svg">
+  <source media="(prefers-color-scheme: light)" srcset="banners/building-board-light-v3.svg">
+  <img src="banners/building-board-dark-v3.svg" alt="Currently building: Beacon (prototype, starting) - CPU-first computer vision in C, Noble (prototype, early) - Language model, from scratch, Skulpty (alpha, in development) - Topology-aware generative 3D" width="870" />
 </picture>
 
 <picture>
